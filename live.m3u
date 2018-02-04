@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,------- LIVE TELEVISION ---------
+#EXTINF:-1,------- TELEVISION JAMAICA ---------
 HTTP://EXAMPLETHIS.TS
-#EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
+#EXTINF:-1, TVJ / Television Jamaica
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
-rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+#EXTINF:-1, TVJ / Television Jamaica
+https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_720p/chunks.m3u8
