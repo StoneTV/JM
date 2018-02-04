@@ -7,5 +7,5 @@ https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_360p/chu
 rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
 #EXTINF:-1 tvg-logo="", FoodNetwork
 https://streaming1.streamlive.to/live/qc6xkzf4h48bz2e/live/qc6xkzf4h48bz2e/chunks.m3u8
-#EXTINF:-1 tvg-logo="", CartoonNetwork
-https://freeeucache2.streamlive.to/edge/9l41fcr1sgmclej/chunks.m3u8?nimblesessionid=7910557&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTggNDowMjozOCBBTSZoYXNoX3ZhbHVlPStPc0UvNE5lTGxvemlTb3pCYmNjdlE9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
+#EXTINF:-1 tvg-logo="", NFL NETWORK
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
