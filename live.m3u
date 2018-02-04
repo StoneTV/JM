@@ -3,5 +3,6 @@
 HTTP://EXAMPLETHIS.TS
 #EXTINF:-1 tvg-logo="http://www.cvmtv.com/images/logo.png", CVM
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eJ2q8dvSu-BcBvXMC5qAGQhjXDsSfC1mCYp6bDmf12Cwbf-bQq1j6z-svIvrC0niWA==/a_n1eeiwgzyg0g.m3u8
-#EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
-https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.cvmtv.com/images/logo.png", TVJ
+http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eJ2q8dvSu-BcBvXMC5qAGQhjXDsSfC1mCYp6bDmf12Cwbf-bQq1j6z-svIvrC0niWA==/a_n1eeiwgzyg0g.m3u8
+
