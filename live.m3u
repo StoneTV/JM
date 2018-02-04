@@ -3,7 +3,9 @@
 HTTP://EXAMPLETHIS.TS
 #EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="", EBSux
+#EXTINF:-1 tvg-logo="", EBSu
 rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
 #EXTINF:-1 tvg-logo="", FoodNetwork
-https://streaming1.streamlive.to/live/qc6xkzf4h48bz2e/live/qc6xkzf4h48bz2e/chunks.m3
+https://streaming1.streamlive.to/live/qc6xkzf4h48bz2e/live/qc6xkzf4h48bz2e/chunks.m3u8
+#EXTINF:-1 tvg-logo="", CartoonNetwork
+https://freeeucache2.streamlive.to/edge/9l41fcr1sgmclej/chunks.m3u8?nimblesessionid=7910557&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTggNDowMjozOCBBTSZoYXNoX3ZhbHVlPStPc0UvNE5lTGxvemlTb3pCYmNjdlE9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
