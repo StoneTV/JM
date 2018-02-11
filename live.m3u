@@ -9,3 +9,6 @@ rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="", NFL NETWORK
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,------ 24/7 ON DEMAND ------
+#EXTINF:-1, tvg-logo="", Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
