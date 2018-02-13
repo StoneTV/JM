@@ -13,6 +13,5 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
-#EXTINF:-1 tvg-logo="", CNNi
-http://91.121.244.94:8081/81AEZJaJuYnL7uO8ijYf2euOceuYTZDxY8euQVRIrNVI2ND6dQr8/live/cnn_id6748/index.m3u8
- 
+#EXTINF:-1 tvg-logo="", CNN
+http://109.123.114.178: 1935/Livenewson/Livenewson43/playlist.m3u8
