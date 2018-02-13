@@ -14,6 +14,6 @@ http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 #EXTINF:-1 tvg-logo="", CNN
-http://109.123.114.178: 1935/Livenewson/Livenewson43/playlist.m3u8
+http://109.123.114.178:1935/Livenewson/Livenewson43/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Cartoonnetwork
 https://i1.youknowme.ga/live/cartoonnetwork-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE4IDY6NTA6MzYgQU0maGFzaF92YWx1ZT1JNkpZbVczSjkwZDdyOHQ0L2ZMQitBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTY4LjE5NC4yMzUuMjE1JnN0cm1fbGVuPTIy
