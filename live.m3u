@@ -7,14 +7,14 @@ https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_360p/chu
 rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
-#EXTINF:-1 tvg-logo="", NFL NETWORK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TjHh4PW.png", CNNi
 http://109.123.114.178:1935/Livenewson/Livenewson43/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/tbn-logo.png", TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-#EXTINF:-1 tvg-logo="", Cartoonnetwork
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1391.m3u8
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/cover/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fd90af47861d34a825935a45f5e155af8ef84034381bf894446110c9a1865268e.png", Cartoonnetwork HD
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1321.m3u8
 #EXTINF:-1 tvg-logo="", ID
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/04.m3u8
 #EXTINF:-1 tvg-logo="", HGTV
@@ -31,13 +31,14 @@ http://nitrotv.for-the.biz:25461/live/Touchtone/Free/11664.m3u8
 http://209.6.202.89:9981/stream/channelid/2109873790?ticket=A9ADF590D9F453E014ADB33DB89EBA99DAF5247F
 #EXTINF:-1 tvg-logo="", EScape
 http://209.6.202.89:9981/stream/channelid/461345250?ticket=0666F993E7CB51DB26F9C3730A696FAACEDCEA4D
-#EXTINF:-1 tvg-logo="", ION
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lJ3Oes3.jpg", ION
 http://209.6.202.89:9981/stream/channelid/1911693861?ticket=82125AC95DB0811D3BA9FAA32C116C2D7800BD4D
 #EXTINF:-1 tvg-logo="", Destination America
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5259.m3u8
 #EXTINF:-1 tvg-logo="", Lifetime
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1467.m3u8
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="http://web.static.nowtv.com/images/NOWTV2/04_TV/04_Kids/Nicktoons_logo_2016.png", Nicktoons
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3434.m3u8
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
