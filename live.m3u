@@ -12,7 +12,7 @@ http://110.10.122.42:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3
 #EXTINF:-1 tvg-logo="", SBS1
 rtmp://smart.igtb.co.kr/live/stream.sdp
 #EXTINF:-1 tvg-logo="", TVK
-rtmp://218.38.152.31:1935/klive/klive.stream
+rtmp://218.38.152.31/klive/klive.stream
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
