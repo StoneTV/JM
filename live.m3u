@@ -11,8 +11,8 @@ http://edge2.everyon.tv/etv2/pld15/playlist.m3u8
 http://110.10.122.42:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8
 #EXTINF:-1 tvg-logo="", SBS1
 rtmp://smart.igtb.co.kr/live/stream.sdp
-#EXTINF:-1 tvg-logo="", TVK
-rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:-1 tvg-logo="", EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TEST
 p2p://61.221.233.81:9000/5606e032000b94b001ebd4770fc87950&link=HGFDSAihgfd
 #EXTINF:-1 tvg-logo="", ID
