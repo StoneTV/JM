@@ -1,20 +1,29 @@
 #EXTM3U
-#EXTINF:-1,------- TELEVISION ---------
-HTTP://EXAMPLETHIS.TS
 #EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/univ_video_tvj/stream_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="", EBSu
-rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+
 #EXTINF:-1 tvg-logo="", JeiENGLISH
 http://edge2.everyon.tv/etv2/pld15/playlist.m3u8
 #EXTINF:-1 tvg-logo="", EBS1
 http://110.10.122.42:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8
-#EXTINF:-1 tvg-logo="", SBS1
-rtmp://smart.igtb.co.kr/live/stream.sdp
 #EXTINF:-1 tvg-logo="", EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="", EBSe
 rtmp://ebsonair.ebs.co.kr:1935/plus3familypc playpath=familypc1m
+#EXTINF:-1 tvg-logo="", EBSu
+rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+#EXTINF:-1 tvg-logo="", KBS Life
+rtmp://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream
+#EXTINF:-1 tvg-logo="", KBS Kids
+rtmp://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream
+#EXTINF:-1 tvg-logo="", KBS Drama
+rtmp://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream
+#EXTINF:-1 tvg-logo="", KBS2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SBS1
+rtmp://smart.igtb.co.kr/live/stream.sdp
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
@@ -49,19 +58,6 @@ http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5259.m3u8
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1467.m3u8
 #EXTINF:-1 tvg-logo="http://web.static.nowtv.com/images/NOWTV2/04_TV/04_Kids/Nicktoons_logo_2016.png", Nicktoons
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3434.m3u8
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1,------ 24/7 ON DEMAND ------
