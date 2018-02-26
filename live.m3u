@@ -18,11 +18,12 @@ rtmp://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream
 rtmp://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream
 #EXTINF:-1 tvg-logo="", KBS Drama
 rtmp://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream
+#EXTINF:-1 tvg-logo="", KBS W
+rtmp://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream
 #EXTINF:-1 tvg-logo="", KBS2
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1 tvg-logo="", SBS1
 rtmp://smart.igtb.co.kr/live/stream.sdp
-#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
