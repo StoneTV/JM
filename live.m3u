@@ -72,8 +72,8 @@ http://examplethis.ts
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 #EXTINF:-1 tvg-logo="", Eric Andre
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTING:-1 tvg-logo="", Mr.Pickles
+#EXTINF:-1 tvg-logo="", Mr.Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-#EXTING:-1 tvg-logo="", 
-#EXTING:-1 tvg-logo="", 
-#EXTING:-1 tvg-logo="", 
+#EXTINF:-1 tvg-logo="", 
+#EXTINF:-1 tvg-logo="", 
+#EXTINF:-1 tvg-logo="", 
