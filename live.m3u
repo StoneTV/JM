@@ -24,8 +24,10 @@ rtmp://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1 tvg-logo="", SBS1
 rtmp://smart.igtb.co.kr/live/stream.sdp
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="", History
+http://217.199.133.226:4936/udp/235.255.1.45:5334
+#EXTINF:-1 tvg-logo="", H2
+http://93.87.85.71/PLTV/88888888/224/3221226671/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2joUfyamh1BmrRRbOeoFBkMnH4aymdF8EX49DtTbMoD%2FwHK3cK2TT5aIYI9VmMuNoxe%3A20161110065112%3AUTC,END&amp;GuardEncType=2
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="", ID
@@ -68,3 +70,10 @@ http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3434.m3u8
 http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 tvg-logo="", Eric Andre
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTING:-1 tvg-logo="", Mr.Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTING:-1 tvg-logo="", 
+#EXTING:-1 tvg-logo="", 
+#EXTING:-1 tvg-logo="", 
