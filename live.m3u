@@ -30,7 +30,8 @@ http://217.199.133.226:4936/udp/235.255.1.45:5334
 http://93.87.85.71/PLTV/88888888/224/3221226671/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2joUfyamh1BmrRRbOeoFBkMnH4aymdF8EX49DtTbMoD%2FwHK3cK2TT5aIYI9VmMuNoxe%3A20161110065112%3AUTC,END&amp;GuardEncType=2
 #EXTINF:-1 tvg-logo="", Unknown
 http://content-ausw3.uplynk.com/c7be04a315154d5da83c5df80aceeee9/j.m3u8
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="", Unknown
+rtmp://edge2.everyon.tv/etv2/phd15?country=US&quality=0&channel=15&player=embed_b2b&network=pc&domain=everyon&bitrate=896&server=org
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
