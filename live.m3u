@@ -31,7 +31,7 @@ http://93.87.85.71/PLTV/88888888/224/3221226671/04.m3u8?accountinfo=XcVGpvGujorJ
 #EXTINF:-1 tvg-logo="", Unknown
 http://content-ausw3.uplynk.com/c7be04a315154d5da83c5df80aceeee9/j.m3u8
 #EXTINF:-1 tvg-logo="", Unknown
-rtmp://edge2.everyon.tv/etv2/phd15?country=US&quality=0&channel=15&player=embed_b2b&network=pc&domain=everyon&bitrate=896&server=org
+rtsp://video2.americafree.tv/AFTVCrimeH264500.sdp
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
