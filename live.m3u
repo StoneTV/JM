@@ -30,8 +30,8 @@ http://217.199.133.226:4936/udp/235.255.1.45:5334
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TjHh4PW.png", CNNi
-http://109.123.114.178:1935/Livenewson/Livenewson43/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TjHh4PW.png", CNN
+http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxMjo1MCBBTSZoYXNoX3ZhbHVlPWw0M3BvWWFnaHA5N2ZESnlxNitDYlE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/tbn-logo.png", TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/cover/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fd90af47861d34a825935a45f5e155af8ef84034381bf894446110c9a1865268e.png", Cartoonnetwork HD
