@@ -38,8 +38,18 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1321.m3u8
 #EXTINF:-1 tvg-logo="", ID
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/04.m3u8
-#EXTINF:-1 tvg-logo="", HGTV
-https://streaming1.streamlive.to/edge/gj65q2rg18tpmut/chunks.m3u8?nimblesessionid=1560647&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMTggNTo0MToyNCBBTSZoYXNoX3ZhbHVlPWg4bzJBY3VsbFBqaGFNV3lPWHc2WXc9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
+#EXTINF:-1,Travel Channel
+http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMjo1NCBBTSZoYXNoX3ZhbHVlPTJZZTV5cUtrbFJIbEM3NTJwcE8xM2c9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:-1,ION TV
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
+#EXTINF:-1,AMC
+http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMzozNiBBTSZoYXNoX3ZhbHVlPW9HRVZEeTF6dGxXNmVOa1EwZlRUd1E9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:-1,Bravo US
+http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNDowMCBBTSZoYXNoX3ZhbHVlPVNaWDMzdjNUY0t0RGNMR1ZUaUtVM2c9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:-1,tru TV
+http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNDozNSBBTSZoYXNoX3ZhbHVlPUM0TFJQdEkrMWtEWEVzbXpjcm5ISUE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:-1,HGTV
+http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNDo1MyBBTSZoYXNoX3ZhbHVlPXF0MjkxckZjUytDMXAwS3l2UDRxMkE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 #EXTINF:-1 tvg-logo="", Nickelodeon
 http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxMzozMCBBTSZoYXNoX3ZhbHVlPTAyTGlKUncxYUFrUk1TTHUvMDdod1E9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 #EXTINF:-1 tvg-logo="", Lifetime
