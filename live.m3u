@@ -26,12 +26,6 @@ http://123.108.164.71/etv2/phd847/playlist.m3u8
 rtmp://smart.igtb.co.kr/live/stream.sdp
 #EXTINF:-1 tvg-logo="", History
 http://217.199.133.226:4936/udp/235.255.1.45:5334
-#EXTINF:-1 tvg-logo="", H2
-http://93.87.85.71/PLTV/88888888/224/3221226671/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2joUfyamh1BmrRRbOeoFBkMnH4aymdF8EX49DtTbMoD%2FwHK3cK2TT5aIYI9VmMuNoxe%3A20161110065112%3AUTC,END&amp;GuardEncType=2
-#EXTINF:-1 tvg-logo="", Unknown
-http://content-ausw3.uplynk.com/c7be04a315154d5da83c5df80aceeee9/j.m3u8
-#EXTINF:-1 tvg-logo="", Unknown
-rtsp://video2.americafree.tv/AFTVCrimeH264500.sdp
 #EXTINF:-1 tvg-logo="", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
@@ -45,29 +39,8 @@ http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1321.m3u8
 #EXTINF:-1 tvg-logo="", ID
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/04.m3u8
 #EXTINF:-1 tvg-logo="", HGTV
-https://uk-20g.firstonetv.net:4434/hls/7f5dc96fd4b6bba2c289296329fb84c0/1519995513/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3139352d3138312d3137302d34302e6d6264722e63662f7032702f37643930303063303936376363343931396630376563626532373336633935612e6d3375383f73743d7354744b58786a6b4d6859415069386d6e616362626726653d31353230303039393133.m3u8
-#EXTINF:-1 tvg-logo="", LMN
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/15179.m3u8
-#EXTINF:-1 tvg-logo="", DIY
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/11567.m3u8
-#EXTINF:-1 tvg-logo="", HLN
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1920.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TjHh4PW.png", CNN
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/11664.m3u8
-#EXTINF:-1 tvg-logo="", Qubo
-http://209.6.202.89:9981/stream/channelid/2109873790?ticket=A9ADF590D9F453E014ADB33DB89EBA99DAF5247F
-#EXTINF:-1 tvg-logo="", EScape
-http://209.6.202.89:9981/stream/channelid/461345250?ticket=0666F993E7CB51DB26F9C3730A696FAACEDCEA4D
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lJ3Oes3.jpg", ION
-http://209.6.202.89:9981/stream/channelid/1911693861?ticket=82125AC95DB0811D3BA9FAA32C116C2D7800BD4D
-#EXTINF:-1 tvg-logo="", Starz
-https://streaming1.streamlive.to/edge/c3qth0qbmnqvya9/chunks.m3u8?nimblesessionid=1560388&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMTggNTozNDozMSBBTSZoYXNoX3ZhbHVlPVJPRWtpa0t6WnBJd1Q1cW5DNnFSenc9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
-#EXTINF:-1 tvg-logo="", Lifetime
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1467.m3u8
-#EXTINF:-1 tvg-logo="http://web.static.nowtv.com/images/NOWTV2/04_TV/04_Kids/Nicktoons_logo_2016.png", Nicktoons
-https://uk-20g.firstonetv.net:4434/hls/6ababf70d814aff1091dc1c8ffa0aa4c/1519995159/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3139352d3138312d3137302d34302e6d6264722e63662f7032702f61356335363862336564316263653330393033663630393235313965663934392e6d3375383f73743d504a797a424c614c4966783433576f76584d6458754126653d31353230303039353539.m3u8
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+https://streaming1.streamlive.to/edge/gj65q2rg18tpmut/chunks.m3u8?nimblesessionid=1560647&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMTggNTo0MToyNCBBTSZoYXNoX3ZhbHVlPWg4bzJBY3VsbFBqaGFNV3lPWHc2WXc9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=#EXTINF:-1 tvg-logo="", LMN
+
 #EXTINF:-1,------ 24/7 ON DEMAND ------
 http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
