@@ -60,8 +60,8 @@ http://209.6.202.89:9981/stream/channelid/2109873790?ticket=A9ADF590D9F453E014AD
 http://209.6.202.89:9981/stream/channelid/461345250?ticket=0666F993E7CB51DB26F9C3730A696FAACEDCEA4D
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lJ3Oes3.jpg", ION
 http://209.6.202.89:9981/stream/channelid/1911693861?ticket=82125AC95DB0811D3BA9FAA32C116C2D7800BD4D
-#EXTINF:-1 tvg-logo="", Destination America
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5259.m3u8
+#EXTINF:-1 tvg-logo="", Starz
+https://streaming1.streamlive.to/edge/c3qth0qbmnqvya9/chunks.m3u8
 #EXTINF:-1 tvg-logo="", Lifetime
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1467.m3u8
 #EXTINF:-1 tvg-logo="http://web.static.nowtv.com/images/NOWTV2/04_TV/04_Kids/Nicktoons_logo_2016.png", Nicktoons
