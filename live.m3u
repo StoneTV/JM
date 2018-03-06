@@ -40,7 +40,12 @@ http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1321.m3u8
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/04.m3u8
 #EXTINF:-1 tvg-logo="", HGTV
 https://streaming1.streamlive.to/edge/gj65q2rg18tpmut/chunks.m3u8?nimblesessionid=1560647&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMTggNTo0MToyNCBBTSZoYXNoX3ZhbHVlPWg4bzJBY3VsbFBqaGFNV3lPWHc2WXc9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
-
+#EXTINF:-1 tvg-logo="", Nickelodeon
+http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxMzozMCBBTSZoYXNoX3ZhbHVlPTAyTGlKUncxYUFrUk1TTHUvMDdod1E9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:-1 tvg-logo="", Lifetime
+http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxNDo1MyBBTSZoYXNoX3ZhbHVlPWNSVTIyc3RSZVZsRG5tRWxWYVZweGc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:-1 tvg-logo="", Cartoon Network
+http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMjozMiBBTSZoYXNoX3ZhbHVlPURCSE01WDEzN3dOOTYvV1o4WERNcUE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 #EXTINF:-1,------ 24/7 ON DEMAND ------
 http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
