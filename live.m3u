@@ -31,7 +31,7 @@ http://217.199.133.226:4936/udp/235.255.1.45:5334
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TjHh4PW.png", CNN
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10142/s10142_h5_aa.png", CNN
 http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxMjo1MCBBTSZoYXNoX3ZhbHVlPWw0M3BvWWFnaHA5N2ZESnlxNitDYlE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/tbn-logo.png", TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
@@ -39,71 +39,73 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1321.m3u8
 #EXTINF:-1 tvg-logo="", ID
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/04.m3u8
-#EXTINF:-1,Travel Channel
+
+
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11180/s11180_h5_aa.png",Travel Channel
 http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMjo1NCBBTSZoYXNoX3ZhbHVlPTJZZTV5cUtrbFJIbEM3NTJwcE8xM2c9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,ION
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18633/s18633_h5_aa.png",ION
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10021/s10021_h5_aa.png",AMC
 http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMzozNiBBTSZoYXNoX3ZhbHVlPW9HRVZEeTF6dGxXNmVOa1EwZlRUd1E9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Bravo
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
 http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNDowMCBBTSZoYXNoX3ZhbHVlPVNaWDMzdjNUY0t0RGNMR1ZUaUtVM2c9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Tru TV
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png",Tru TV
 http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNDozNSBBTSZoYXNoX3ZhbHVlPUM0TFJQdEkrMWtEWEVzbXpjcm5ISUE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14902/s14902_h5_aa.png",HGTV
 http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNDo1MyBBTSZoYXNoX3ZhbHVlPXF0MjkxckZjUytDMXAwS3l2UDRxMkE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1 tvg-logo="", Nickelodeon
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11006/s11006_h5_aa.png",Nickelodeon
 http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxMzozMCBBTSZoYXNoX3ZhbHVlPTAyTGlKUncxYUFrUk1TTHUvMDdod1E9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1 tvg-logo="", Lifetime
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10918/s10918_h5_aa.png",Lifetime
 http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxNDo1MyBBTSZoYXNoX3ZhbHVlPWNSVTIyc3RSZVZsRG5tRWxWYVZweGc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1 tvg-logo="", Cartoon Network
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png",Cartoon Network
 http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMjozMiBBTSZoYXNoX3ZhbHVlPURCSE01WDEzN3dOOTYvV1o4WERNcUE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14321/s14321_h5_aa.png",FX
 http://mobilecache.streamlive.to:8081/edge/ru031zebcat0lio/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxMzo1MSBBTSZoYXNoX3ZhbHVlPWVLSTMxQnRYZjFzZVZIeUFJL0diOXc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/56905/s56905_h5_aa.png",Discovery Channel
 http://mobilecache.streamlive.to:8081/edge/ishyd3sopok3p27/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxNDoxNCBBTSZoYXNoX3ZhbHVlPTdXdVgzWnF5YkRZRnVteGZNMXNJVkE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,BET
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10051/s10051_h5_aa.png",BET
 http://mobilecache.streamlive.to:8081/edge/kexkxje3nqi6dtl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxNTozNyBBTSZoYXNoX3ZhbHVlPWRSclIrYzNaTmV2N2FkdktuQWJRY0E9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Paramount
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/59186/s59186_h5_aa.png",Paramount
 http://mobilecache.streamlive.to:8081/edge/sax2mq2alpirnww/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxNjoyNiBBTSZoYXNoX3ZhbHVlPVY5TzVoQmZ6SFZKd0NNUXNxVHZaTWc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10035/s10035_h5_aa.png",A&E
 http://mobilecache.streamlive.to:8081/edge/tuc280rbycwnsvs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxODowNiBBTSZoYXNoX3ZhbHVlPWZuQ3dkOGRLNDdpMFBFQkd4UWgwMGc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11158/s11158_h5_aa.png",TLC
 http://mobilecache.streamlive.to:8081/edge/iugceoy4o6ljhck/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxODo0MCBBTSZoYXNoX3ZhbHVlPVkycVk4SXFaSnhaZWo3SHJBNTlYTFE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,USA Network
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11207/s11207_h5_aa.png",USA Network
 http://mobilecache.streamlive.to:8081/edge/h5eovaj1jeegluq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxODo1OSBBTSZoYXNoX3ZhbHVlPWRTRk1vRWZXNUhXeTUzbkpQSFpWOWc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10986/s10986_h5_aa.png",MTV
 http://mobilecache.streamlive.to:8081/edge/p0audpgrkvu6l1g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoxOTo0NyBBTSZoYXNoX3ZhbHVlPTlXYkdUNENVSHpVVUlqMHF3QXJSa2c9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,TV Land
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16123/s16123_h5_aa.png",TV Land
 http://mobilecache.streamlive.to:8081/edge/7yxirr4046nk5ca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMDo1NiBBTSZoYXNoX3ZhbHVlPU9QUUtEbXRBK0Y1SzdSRFU2Q1E1YVE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Food Network US
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12574/s12574_h5_aa.png",Food Network
 http://mobilecache.streamlive.to:8081/edge/ibnnu7537h3ax6e/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMToyNiBBTSZoYXNoX3ZhbHVlPWsySURLYzVQTUV4dWI0L0F1Z01HRmc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,History
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png",History
 http://mobilecache.streamlive.to:8081/edge/dhp0rpd116qyyj6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMTo0NSBBTSZoYXNoX3ZhbHVlPWdzNUQwMVV1T2VFVStMeEhuSmY1VFE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,SyFy
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/58623/s58623_h5_aa.png",SyFy
 http://mobilecache.streamlive.to:8081/edge/x7uii7mll2b7lh4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyMjowOSBBTSZoYXNoX3ZhbHVlPUZBS25oYWlLQ3Zrd1kwNm1hNXEzbFE9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10149/s10149_h5_aa.png",Comedy Central
 http://mobilecache.streamlive.to:8081/edge/wyw9tfxexu68p0t/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNToxNSBBTSZoYXNoX3ZhbHVlPUg0ejNjTXJiZ0ZTOXdZL3FiQU9rMHc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,NatGeo
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/24959/s24959_h5_aa.png",NatGeo
 http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNjowNiBBTSZoYXNoX3ZhbHVlPUVDYmRVK3JSdFdhUXgrclpuTlJENHc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Science Channel
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16616/s16616_h5_aa.png",Science Channel
 http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNjo1MyBBTSZoYXNoX3ZhbHVlPTROWjNoKzRFUDBFMmI2Z2J4V3VCTmc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Investigation Discovery
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png",Investigation Discovery
 http://mobilecache.streamlive.to:8081/edge/yjma618cibkqxeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNzoyNSBBTSZoYXNoX3ZhbHVlPS9tZFRDcnFaSHhOM3hHK2N0RXFzdmc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Nick Jr.
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/19211/s19211_h5_aa.png",Nick Jr.
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14100.ts
-#EXTINF:-1,Heroes & Icons
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/90401/s90401_h5_aa.png",Heroes & Icons
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29890.ts
-#EXTINF:-1,Weather Nation
+#EXTINF:-1 tvg-logo="",Weather Nation
 http://klive-a.akamaihd.net/dc-0/m/pa-live-publish5/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/QQAuvHb0DN9ChxKuPfB5Fg/master.m3u8
-#EXTINF:-1,GSN
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14909/s14909_h5_aa.png",GSN
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19335.ts
-#EXTINF:-1,Hallmark Channel
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11221/s11221_h5_aa.png",Hallmark Channel
 http://mobilecache.streamlive.to:8081/edge/v4ynnryunsoxzbq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyOTo1NCBBTSZoYXNoX3ZhbHVlPXhpU2JjYnVlbjZHblk0d3FuOEI0Vmc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
-#EXTINF:-1,Sprout
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/47540/s47540_h5_aa.png",Universal Kids
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19590.ts
-#EXTINF:-1,NickToons
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30420/s30420_h5_aa.png",NickToons
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14097.ts
-#EXTINF:-1,Oxygen
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/21484/s21484_h5_aa.png",Oxygen
 http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjozMDoxNiBBTSZoYXNoX3ZhbHVlPTR6NHdHZUYveUI0WW8xZk5hYXl2bXc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 
 #EXTINF:-1,------ 24/7 ON DEMAND ------
