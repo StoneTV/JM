@@ -108,6 +108,47 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14097.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/21484/s21484_h5_aa.png",Oxygen
 http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjozMDoxNiBBTSZoYXNoX3ZhbHVlPTR6NHdHZUYveUI0WW8xZk5hYXl2bXc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 
+#EXTINF:-1,USA: CRIME AND INVESTIGATION
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14161.ts
+#EXTINF:-1,USA: FXX
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14171.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14131.ts
+#EXTINF:-1,USA: NICK JR.TOO
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14099.ts
+#EXTINF:-1,USA: TBS
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14134.ts
+#EXTINF:-1,USA: CINEMAXX MORE MAXX
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/16492.ts
+#EXTINF:-1,USA: DESTINATION AMERICA
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/16491.ts
+#EXTINF:-1,USA: FREEFORM HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19264.ts
+#EXTINF:-1,USA: HBO FAMILY HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19272.ts
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19326.ts
+#EXTINF:-1,USA: DIY NETWORK HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19327.ts
+#EXTINF:-1,USA: GAME SHOW NETWORK
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19335.ts
+#EXTINF:-1,USA: COOKING CHANNEL HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19336.ts
+#EXTINF:-1,USA: HLN
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19552.ts
+#EXTINF:-1,USA: LIFETIME MOVIES
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19591.ts
+#EXTINF:-1,USA: AMERICAN HEROES CHANNEL
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22430.ts
+#EXTINF:-1,USA: CBS NY FHD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23369.ts
+#EXTINF:-1,USA: FOX 5 HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/24489.ts
+#EXTINF:-1,USA: STARZ KIDS & FAMILY
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25255.ts
+#EXTINF:-1,USA: WGN AMERICA
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/27663.ts
+
 #EXTINF:-1,------ 24/7 ON DEMAND ------
 http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
@@ -116,6 +157,10 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 tvg-logo="", Mr.Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1, CRIMINAL MINDS 
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22423.ts
+#EXTINF:-1,24/7 PEPPA PIG
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29943.ts
 #EXTINF:-1 tvg-logo="", 
 #EXTINF:-1 tvg-logo="", 
 #EXTINF:-1 tvg-logo="", 
