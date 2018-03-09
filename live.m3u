@@ -90,7 +90,7 @@ http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8?wmsAuth
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16616/s16616_h5_aa.png",Science Channel
 http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTggNjoyNjo1MyBBTSZoYXNoX3ZhbHVlPTROWjNoKzRFUDBFMmI2Z2J4V3VCTmc9PSZ2YWxpZG1pbnV0ZXM9MTAwMDAmc3RybV9sZW49MjAmaWQ9MA==
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png",Investigation Discovery
-http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14167.ts
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14167.mpegts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/19211/s19211_h5_aa.png",Nick Jr.
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14100.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/90401/s90401_h5_aa.png",Heroes & Icons
