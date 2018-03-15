@@ -1,7 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1,------ JAMAICA HDTV ------
 #EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/playlist.m3u8
---
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CaribVision
+https://tvjlocal.akamaized.net/univ_rjr_cvtv/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CaribVision
+https://uvodscp-lh.akamaihd.net/i/rjrCvtv_1@79763/index_240_av-p.m3u8
+
+#EXTINF:-1,------ kOREA HDTV ------
 #EXTINF:-1 tvg-logo="", JeiENGLISH
 http://edge2.everyon.tv/etv2/pld15/playlist.m3u8
 #EXTINF:-1 tvg-logo="", EBS1
@@ -24,7 +31,8 @@ rtmp://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1 tvg-logo="", SBS1
 rtmp://smart.igtb.co.kr/live/stream.sdp
---
+
+#EXTINF:-1,------ USA OPTIMUM ------
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", History
 http://217.199.133.226:4936/udp/235.255.1.45:5334
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png", ID
