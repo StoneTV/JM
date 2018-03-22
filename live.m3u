@@ -153,7 +153,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/24489.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29860.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/19635/s19635_h5_aa.png", STARZ KIDS & FAMILY
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25255.ts
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/91097/s91097_h5_aa.png", WGN AMERICA
+#EXTINF:-1 tvg-id="wgna.us" tvg-name="WGNAmerica US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/91097/s91097_h5_aa.png", WGN AMERICA
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/27663.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16409/s16409_h5_aa.png", WE TV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22431.ts
@@ -165,9 +165,9 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23337.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29447.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/70248/s70248_h5_aa.png", ANTENNA TV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29889.ts
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/34901/s34901_h5_aa.png", STARZ COMEDY
+#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/34901/s34901_h5_aa.png", STARZ
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25489.ts
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16834/s16834_h5_aa.png", FYI NETWORK
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16834/s16834_h5_aa.png", FYI NETWORK
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/20878.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18633/s18633_h5_aa.png", ION
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
