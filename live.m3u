@@ -139,7 +139,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19326.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19327.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30156/s30156_h5_aa.png", COOKING CHANNEL HD
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19336.ts
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10145/s10145_h5_aa.png", HLN.us
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN US"tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10145/s10145_h5_aa.png", HLN.us
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19552.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18480/s18480_h5_aa.png", LIFETIME MOVIES
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19591.ts
