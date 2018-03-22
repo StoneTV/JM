@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://iptv-epg.com/53e2-jellia.xml.gz"
 #EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CaribVision
