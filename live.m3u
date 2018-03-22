@@ -45,7 +45,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18500.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10021/s10021_h5_aa.png", AMC
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14144.ts
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14179.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png", Tru TV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18368.ts
@@ -65,7 +65,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14089.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14166.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10035/s10035_h5_aa.png", A&E
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25294.ts
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11158/s11158_h5_aa.png", TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11158/s11158_h5_aa.png", TLC
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19772.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11207/s11207_h5_aa.png", USA Network
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19270.ts
