@@ -101,6 +101,8 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14064.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19590.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30420/s30420_h5_aa.png", NickToons
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14097.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30420/s30420_h5_aa.png", Nick HD
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14098.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/21484/s21484_h5_aa.png", Oxygen
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19585.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/61469/s61469_h5_aa.png", Crime & Investigation
