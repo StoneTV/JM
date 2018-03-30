@@ -7,6 +7,10 @@
     <display-name lang="en">TLC US</display-name>
     <url>http://www.yo.tv</url>
   <icon src="http://static.iptv-epg.com/us/TLC.us.png"/></channel>
+    <channel id="HLN.us">
+    <display-name lang="en">HLN US</display-name>
+    <url>http://www.yo.tv</url>
+  <icon src="http://static.iptv-epg.com/us/HLN.us.png"/></channel>
 <programme start="20180328000000 +0000" stop="20180328003000 +0000" channel="Talentvision.ca">
     <title lang="en">Walking Scenery</title>
     <category lang="en">Tvshow</category>
