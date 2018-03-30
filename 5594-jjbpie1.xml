@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv><channel id="Talentvision.ca">
+    <display-name lang="en">Talentvision CA</display-name>
+    <url>http://www.tvguide.com</url>
+  <icon src="http://static.iptv-epg.com/ca/Talentvision.ca.png"/></channel>
+<channel id="TLC.us">
+    <display-name lang="en">TLC US</display-name>
+    <url>http://www.yo.tv</url>
+  <icon src="http://static.iptv-epg.com/us/TLC.us.png"/></channel>
+
+<channel id="HLN.us">
+    <display-name lang="en">HLN US</display-name>
+    <url>http://www.yo.tv</url>
+  <icon src="http://static.iptv-epg.com/us/HLN.us.png"/></channel>
