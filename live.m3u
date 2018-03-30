@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptv-epg.com/53e2-jellia.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml"
 #EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CaribVision
@@ -109,7 +109,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19585.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14161.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/17927/s17927_h5_aa.png", FXX
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14171.ts
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10142/s10142_h5_aa.png", CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10142/s10142_h5_aa.png", CNN
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14141.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16374/s16374_h5_aa.png", FOX NEWS
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14125.ts
@@ -141,7 +141,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19326.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19327.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30156/s30156_h5_aa.png", COOKING CHANNEL HD
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19336.ts
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10145/s10145_h5_aa.png", HLN
+#EXTINF:-1 tvg-id="HLN (HLN)" tvg-name="HLN US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10145/s10145_h5_aa.png", HLN (HLN)
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19552.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18480/s18480_h5_aa.png", LIFETIME MOVIES
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19591.ts
