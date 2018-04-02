@@ -1,0 +1,2419 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TLC US">
+    <display-name lang="en">TLC US</display-name>
+    <url>http://www.yo.tv</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="en">HGTV</display-name>
+    <url>http://www.yo.tv</url>
+  </channel>
+  <programme start="20180402060000 +0000" stop="20180402070000 +0000" channel="TLC US">
+    <title lang="en">philosophy---beauty</title>
+    <desc lang="en">Skin-care products, cosmetics, and bath-and-body products are featured</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402070000 +0000" stop="20180402080000 +0000" channel="TLC US">
+    <title lang="en">WEN by Chaz Dean---Hair &amp; Body Care</title>
+    <desc lang="en">Hair- and body-cleansing products are showcased</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402080000 +0000" stop="20180402090000 +0000" channel="TLC US">
+    <title lang="en">Doll 10 Beauty by Doris Dalton</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402090000 +0000" stop="20180402110000 +0000" channel="TLC US">
+    <title lang="en">Denim &amp; Co. Clearance</title>
+    <desc lang="en">Fashion and accessories are spotlighted</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402110000 +0000" stop="20180402130000 +0000" channel="TLC US">
+    <title lang="en">Morning Q Live Style Edition</title>
+    <desc lang="en">Fashion and accessories are spotlighted</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402130000 +0000" stop="20180402140000 +0000" channel="TLC US">
+    <title lang="en">WEN by Chaz Dean---Hair &amp; Body Care</title>
+    <desc lang="en">Hair- and body-cleansing products are showcased</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402140000 +0000" stop="20180402160000 +0000" channel="TLC US">
+    <title lang="en">Denim &amp; Co.</title>
+    <desc lang="en">Classic, easy-care women's separates</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402160000 +0000" stop="20180402170000 +0000" channel="TLC US">
+    <title lang="en">WEN by Chaz Dean---Hair &amp; Body Care</title>
+    <desc lang="en">Hair- and body-cleansing products are showcased</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402170000 +0000" stop="20180402180000 +0000" channel="TLC US">
+    <title lang="en">Isaac Mizrahi Live!</title>
+    <desc lang="en">Fashions from designer Isaac Mizrahi</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Fashion</category>
+  </programme>
+  <programme start="20180402180000 +0000" stop="20180402190000 +0000" channel="TLC US">
+    <title lang="en">Doll 10 Beauty by Doris Dalton</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402190000 +0000" stop="20180402200000 +0000" channel="TLC US">
+    <title lang="en">WEN by Chaz Dean---Hair &amp; Body Care</title>
+    <desc lang="en">Hair- and body-cleansing products are showcased</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402200000 +0000" stop="20180402220000 +0000" channel="TLC US">
+    <title lang="en">Quacker Factory by Jeanne Bice</title>
+    <desc lang="en">Fanciful apparel and accessories for women</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402220000 +0000" stop="20180402230000 +0000" channel="TLC US">
+    <title lang="en">WEN by Chaz Dean---Hair &amp; Body Care</title>
+    <desc lang="en">Hair- and body-cleansing products are showcased</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402230000 +0000" stop="20180403000000 +0000" channel="TLC US">
+    <title lang="en">Inspired Style</title>
+    <desc lang="en">Fashion, beauty and jewelry tips from QVC's Amy Stran</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Jewelry</category>
+  </programme>
+  <programme start="20180403000000 +0000" stop="20180403010000 +0000" channel="TLC US">
+    <title lang="en">Logo by Lori Goldstein</title>
+    <desc lang="en">Contemporary fashion and accessories</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403010000 +0000" stop="20180403020000 +0000" channel="TLC US">
+    <title lang="en">Isaac Mizrahi Live!</title>
+    <desc lang="en">Fashions from designer Isaac Mizrahi</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Fashion</category>
+  </programme>
+  <programme start="20180403020000 +0000" stop="20180403040000 +0000" channel="TLC US">
+    <title lang="en">PM Style with Shawn Killinger</title>
+    <desc lang="en">Fashion products and accessories</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403040000 +0000" stop="20180403050000 +0000" channel="TLC US">
+    <title lang="en">Martha Stewart-Garden</title>
+    <desc lang="en">Tools and tips from lifestyle expert Martha Stewart are spotlighted</desc>
+  </programme>
+  <programme start="20180403050000 +0000" stop="20180403050000 +0000" channel="TLC US">
+    <title lang="en">Roberta's Unique Gardens</title>
+    <desc lang="en">Featured: flower bulbs and plants</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403050000 +0000" stop="20180403070000 +0000" channel="TLC US">
+    <title lang="en">Roberta's Unique Gardens</title>
+    <desc lang="en">Featured: flower bulbs and plants</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403070000 +0000" stop="20180403080000 +0000" channel="TLC US">
+    <title lang="en">Patio &amp; Garden</title>
+    <desc lang="en">Outdoor decor; tools; plants; and more</desc>
+  </programme>
+  <programme start="20180403080000 +0000" stop="20180403100000 +0000" channel="TLC US">
+    <title lang="en">Gardening Made Easy by Cottage Farms</title>
+    <desc lang="en">Featured: perennials</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403100000 +0000" stop="20180403130000 +0000" channel="TLC US">
+    <title lang="en">Great Outdoors With Dan</title>
+    <desc lang="en">Equipment for gardening, car repair, outdoor entertaining and washing a pet. Dan Hughes hosts</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Gardening</category>
+  </programme>
+  <programme start="20180403130000 +0000" stop="20180403160000 +0000" channel="TLC US">
+    <title lang="en">Garden Party With Carolyn</title>
+    <desc lang="en">QVC's Carolyn Gracie offers plants, flowers and products for the garden, plus gardening advice</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Gardening</category>
+  </programme>
+  <programme start="20180403160000 +0000" stop="20180403170000 +0000" channel="TLC US">
+    <title lang="en">Martha Stewart-Garden</title>
+    <desc lang="en">Tools and tips from lifestyle expert Martha Stewart are spotlighted</desc>
+  </programme>
+  <programme start="20180403170000 +0000" stop="20180403190000 +0000" channel="TLC US">
+    <title lang="en">Roberta's Unique Gardens</title>
+    <desc lang="en">Featured: flower bulbs and plants</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403190000 +0000" stop="20180403210000 +0000" channel="TLC US">
+    <title lang="en">Pat's Garden Guide</title>
+    <desc lang="en">Products and tips for the garden are presented</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403210000 +0000" stop="20180403220000 +0000" channel="TLC US">
+    <title lang="en">DynaTrap(R) Insect &amp; Mosquito Control</title>
+    <desc lang="en">Mosquito and bug-repellent products are featured</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180403220000 +0000" stop="20180403230000 +0000" channel="TLC US">
+    <title lang="en">Martha Stewart-Garden</title>
+    <desc lang="en">Tools and tips from lifestyle expert Martha Stewart are spotlighted</desc>
+  </programme>
+  <programme start="20180403230000 +0000" stop="20180404010000 +0000" channel="TLC US">
+    <title lang="en">Gardening Made Easy by Cottage Farms</title>
+    <desc lang="en">Featured: perennials</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180404010000 +0000" stop="20180404020000 +0000" channel="TLC US">
+    <title lang="en">Martha Stewart-Garden</title>
+    <desc lang="en">Tools and tips from lifestyle expert Martha Stewart are spotlighted</desc>
+  </programme>
+  <programme start="20180404020000 +0000" stop="20180404040000 +0000" channel="TLC US">
+    <title lang="en">Outdoor Living</title>
+    <desc lang="en">Solar-powered products, hammocks, umbrellas and lawn decor are presented</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180404040000 +0000" stop="20180404060000 +0000" channel="TLC US">
+    <title lang="en">Rick Domeier Presents Affinity Diamond Jewelry</title>
+    <desc lang="en">Diamond jewelry is offered</desc>
+  </programme>
+  <programme start="20180404060000 +0000" stop="20180404070000 +0000" channel="TLC US">
+    <title lang="en">Gold Jewelry</title>
+    <desc lang="en">A variety of gold jewelry is presented</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Jewelry</category>
+  </programme>
+  <programme start="20180404070000 +0000" stop="20180404080000 +0000" channel="TLC US">
+    <title lang="en">Affinity Diamond Jewelry</title>
+    <desc lang="en">Diamond jewelery from Affinity is offered</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Jewelry</category>
+  </programme>
+  <programme start="20180404080000 +0000" stop="20180404100000 +0000" channel="TLC US">
+    <title lang="en">Fine Jewelry Clearance</title>
+  </programme>
+  <programme start="20180404100000 +0000" stop="20180404110000 +0000" channel="TLC US">
+    <title lang="en">ALOR Jewelry Collection</title>
+    <desc lang="en">Gold and diamond jewelry is showcased</desc>
+  </programme>
+  <programme start="20180404110000 +0000" stop="20180404130000 +0000" channel="TLC US">
+    <title lang="en">Gold &amp; Fine Jewelry</title>
+  </programme>
+  <programme start="20180404130000 +0000" stop="20180404150000 +0000" channel="TLC US">
+    <title lang="en">Affinity Diamond Jewelry</title>
+    <desc lang="en">Diamond jewelery from Affinity is offered</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Jewelry</category>
+  </programme>
+  <programme start="20180404150000 +0000" stop="20180404170000 +0000" channel="TLC US">
+    <title lang="en">Nancy's Jewelry Favorites</title>
+  </programme>
+  <programme start="20180404170000 +0000" stop="20180404190000 +0000" channel="TLC US">
+    <title lang="en">Colors of Gemstone Jewelry</title>
+    <desc lang="en">Jewelry is spotlighted</desc>
+  </programme>
+  <programme start="20180404190000 +0000" stop="20180404210000 +0000" channel="TLC US">
+    <title lang="en">Gold Jewelry</title>
+    <desc lang="en">A variety of gold jewelry is presented</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Jewelry</category>
+  </programme>
+  <programme start="20180404210000 +0000" stop="20180405000000 +0000" channel="TLC US">
+    <title lang="en">Rick Domeier Presents Affinity Diamond Jewelry</title>
+    <desc lang="en">Diamond jewelry is offered</desc>
+  </programme>
+  <programme start="20180405000000 +0000" stop="20180405020000 +0000" channel="TLC US">
+    <title lang="en">In the Kitchen With David - PM Edition</title>
+    <desc lang="en">Kitchen tools and essentials are showcased</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405020000 +0000" stop="20180405040000 +0000" channel="TLC US">
+    <title lang="en">Fine Jewelry Gala</title>
+  </programme>
+  <programme start="20180405040000 +0000" stop="20180405050000 +0000" channel="TLC US">
+    <title lang="en">Homeworx by Harry Slatkin-Candles &amp; Home Fragrance</title>
+    <desc lang="en">Candles and home scents are spotlighted</desc>
+  </programme>
+  <programme start="20180405050000 +0000" stop="20180405050000 +0000" channel="TLC US">
+    <title lang="en">philosophy---beauty</title>
+    <desc lang="en">Skin-care products, cosmetics, and bath-and-body products are featured</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405050000 +0000" stop="20180405070000 +0000" channel="TLC US">
+    <title lang="en">philosophy---beauty</title>
+    <desc lang="en">Skin-care products, cosmetics, and bath-and-body products are featured</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405070000 +0000" stop="20180405080000 +0000" channel="TLC US">
+    <title lang="en">Spring Decorating</title>
+    <desc lang="en">QVC's Carolyn Gracie offers decorating ideas for spring</desc>
+  </programme>
+  <programme start="20180405080000 +0000" stop="20180405090000 +0000" channel="TLC US">
+    <title lang="en">Home Style Clearance</title>
+  </programme>
+  <programme start="20180405090000 +0000" stop="20180405100000 +0000" channel="TLC US">
+    <title lang="en">A Clean Start</title>
+    <desc lang="en">Cleaning products are offered</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405100000 +0000" stop="20180405110000 +0000" channel="TLC US">
+    <title lang="en">AeroPilates Home Studio</title>
+    <desc lang="en">Fitness equipment is spotlighted</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405110000 +0000" stop="20180405130000 +0000" channel="TLC US">
+    <title lang="en">Morning Q Live</title>
+    <desc lang="en">Daily look at what's happening on QVC and QVC.com</desc>
+    <category lang="en">Shopping</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405130000 +0000" stop="20180405150000 +0000" channel="TLC US">
+    <title lang="en">Susan Graver Style</title>
+    <desc lang="en">Designer fashions are spotlighted</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405150000 +0000" stop="20180405170000 +0000" channel="TLC US">
+    <title lang="en">Home Made Easy with Mary</title>
+    <desc lang="en">Simple tips for cooking and homecare are spotlighted</desc>
+  </programme>
+  <programme start="20180405170000 +0000" stop="20180405180000 +0000" channel="TLC US">
+    <title lang="en">Homeworx by Harry Slatkin-Candles &amp; Home Fragrance</title>
+    <desc lang="en">Candles and home scents are spotlighted</desc>
+  </programme>
+  <programme start="20180405180000 +0000" stop="20180405200000 +0000" channel="TLC US">
+    <title lang="en">philosophy---beauty</title>
+    <desc lang="en">Skin-care products, cosmetics, and bath-and-body products are featured</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405200000 +0000" stop="20180405210000 +0000" channel="TLC US">
+    <title lang="en">Homeworx by Harry Slatkin-Candles &amp; Home Fragrance</title>
+    <desc lang="en">Candles and home scents are spotlighted</desc>
+  </programme>
+  <programme start="20180405210000 +0000" stop="20180405220000 +0000" channel="TLC US">
+    <title lang="en">Susan Graver Style</title>
+    <desc lang="en">Designer fashions are spotlighted</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180405220000 +0000" stop="20180405230000 +0000" channel="TLC US">
+    <title lang="en">Alegria Footwear</title>
+    <desc lang="en">Footwear is showcased</desc>
+  </programme>
+  <programme start="20180405230000 +0000" stop="20180406010000 +0000" channel="TLC US">
+    <title lang="en">The Best- Dressed Home</title>
+    <desc lang="en">Linens, bedding, home accents, decor and more</desc>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20180402053000 +0000" stop="20180402063000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Glory Is the Reward of Mallard</sub-title>
+    <desc lang="en">Willie goes on a business trip to Scotland in the Season 7 premiere. Meanwhile, Jep and Jessica plan a romantic getaway(c)</desc>
+    <credits>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Phil Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/17/tt4212226/s/6502d76b2c4240bfa8099b670e98a898.jpg" />
+    <episode-num system="xmltv_ns">6.0.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402063000 +0000" stop="20180402070100 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Quack in the Saddle</sub-title>
+    <desc lang="en">The guys go to a horse race; Kay buys a new birdbath(c)</desc>
+    <credits>
+      <actor>Jep Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Korie Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/9/42738/s/a8647a30b5ace375e510d30a1ab14dd8.jpg" />
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402070100 +0000" stop="20180402073100 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Good Night and Good Duck</sub-title>
+    <desc lang="en">Thanksgiving tips are shared by the Robertsons(c)</desc>
+    <credits>
+      <actor>Korie Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Willie Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/17/tt4212232/s/dbd5a342081575d9498d54ae97ca8f36.jpg" />
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402073100 +0000" stop="20180402080000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Coop! There It Is!</sub-title>
+    <desc lang="en">The guys renovate a chicken coop(c)</desc>
+    <credits>
+      <actor>Jase Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/17/tt4289046/s/acd7108243b40cadf13feb2d23505642.jpg" />
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <star-rating>
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402080000 +0000" stop="20180402090000 +0000" channel="HGTV">
+    <title lang="en">Wife Swap</title>
+    <sub-title lang="en">Silver/Pitney</sub-title>
+    <desc lang="en">A pampered psychic reader who homeschools her sons swaps families with a mom who has out-of-control sons and a husband with a gambling problem(c)</desc>
+    <credits>
+      <actor>Rank:</actor>
+      <actor>Brian Lee</actor>
+      <actor>Robert Robinson</actor>
+      <actor>John Schwab</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt0411040/s/901d7829f075fc302726c6d15076717b.jpg" />
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+    <star-rating>
+      <value>2.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402090000 +0000" stop="20180402093000 +0000" channel="HGTV">
+    <title lang="en">Fish Oil Benefits Examined</title>
+    <desc lang="en">Say goodbye to bad cholesterol, joint pain, mood swings and brain fog in 30 days or less(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180402093000 +0000" stop="20180402100000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402100000 +0000" stop="20180402103000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402103000 +0000" stop="20180402110000 +0000" channel="HGTV">
+    <title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
+    <desc lang="en">Cindy Crawford's Beauty Secrets! Cindy's Targeted Beauty Trio is new for 2017! Rediscover your skin's youthful radiance. This new offer is free to you as part of Meaningful Beauty ULTRA! That's 3 free gifts today!(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180402110000 +0000" stop="20180402113000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180402113000 +0000" stop="20180402120000 +0000" channel="HGTV">
+    <title lang="en">Fish Oil Benefits Examined</title>
+    <desc lang="en">Say goodbye to bad cholesterol, joint pain, mood swings and brain fog in 30 days or less(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180402120000 +0000" stop="20180402130000 +0000" channel="HGTV">
+    <title lang="en">Biography</title>
+    <desc lang="en">A profile of Bill Murray, who rose to fame on "Saturday Night Live" and classic comedy films, including "Caddyshack," "Stripes," "Tootsie" and "Ghostbusters."(c)</desc>
+    <category lang="en">Biography</category>
+    <category lang="en">Profile</category>
+  </programme>
+  <programme start="20180402130000 +0000" stop="20180402140000 +0000" channel="HGTV">
+    <title lang="en">Biography</title>
+    <desc lang="en">A profile of Chevy Chase, who rose to fame in the 1970s on "Saturday Night Live" and in the '80s with such comic films as "Caddyshack" and "National Lampoon's Vacation."(c)</desc>
+    <credits>
+      <actor>Harry Smith</actor>
+      <actor>Jack Perkins</actor>
+      <actor>Peter Graves</actor>
+      <actor>Fred Melamed</actor>
+      <actor>Joan Lunden</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <category lang="en">Profile</category>
+  </programme>
+  <programme start="20180402140000 +0000" stop="20180402150000 +0000" channel="HGTV">
+    <title lang="en">Modern Marvels</title>
+    <sub-title lang="en">Soft Drinks</sub-title>
+    <desc lang="en">The history of soft drinks is explored. Included: the origins of root beer and ginger ale; and a look at the energy-drink industry(c)</desc>
+    <credits>
+      <actor>Lloyd Sherr</actor>
+      <actor>Pam Dalton</actor>
+      <actor>Vince Staten</actor>
+      <actor>Richard P. Hallion</actor>
+      <actor>Jack Perkins</actor>
+      <actor>Alexander B. Rubinow</actor>
+      <actor>William Atwater</actor>
+      <actor>Harlan Saperstein</actor>
+      <actor>Will Lyman</actor>
+    </credits>
+    <category lang="en">Documentary</category>
+    <category lang="en">Science</category>
+    <episode-num system="xmltv_ns">14.2.</episode-num>
+  </programme>
+  <programme start="20180402150000 +0000" stop="20180402160000 +0000" channel="HGTV">
+    <title lang="en">Modern Marvels</title>
+    <sub-title lang="en">Wine</sub-title>
+    <desc lang="en">Wine history and technology are examined. Included: the use of aerial imaging and infrared photography in analyzing soil. Also: a tour of wineries, a historic wine cellar and the oldest restaurant in Paris(c)</desc>
+    <credits>
+      <actor>Alexander B. Rubinow</actor>
+      <actor>Jack Perkins</actor>
+      <actor>Lloyd Sherr</actor>
+      <actor>Harlan Saperstein</actor>
+      <actor>Vince Staten</actor>
+      <actor>Will Lyman</actor>
+      <actor>William Atwater</actor>
+      <actor>Pam Dalton</actor>
+      <actor>Richard P. Hallion</actor>
+    </credits>
+    <category lang="en">Documentary</category>
+    <category lang="en">Science</category>
+    <episode-num system="xmltv_ns">12.53.</episode-num>
+  </programme>
+  <programme start="20180402160000 +0000" stop="20180402170000 +0000" channel="HGTV">
+    <title lang="en">Modern Marvels</title>
+    <sub-title lang="en">Brewing</sub-title>
+    <desc lang="en">A history of brewing and breweries. Included: the process in ancient Egypt and China. Also: a visit to the Dogfish Head Craft Brewery in Delaware(c)</desc>
+    <credits>
+      <actor>Alexander B. Rubinow</actor>
+      <actor>Harlan Saperstein</actor>
+      <actor>Jack Perkins</actor>
+      <actor>Lloyd Sherr</actor>
+      <actor>Pam Dalton</actor>
+      <actor>Vince Staten</actor>
+      <actor>Will Lyman</actor>
+      <actor>William Atwater</actor>
+      <actor>Richard P. Hallion</actor>
+    </credits>
+    <category lang="en">Documentary</category>
+    <category lang="en">Science</category>
+    <episode-num system="xmltv_ns">11.58.</episode-num>
+  </programme>
+  <programme start="20180402170000 +0000" stop="20180402180000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Charlie's</sub-title>
+    <desc lang="en">Chef Ramsay visits Charlie's, an Italian eatery in La Verne, Cal., and finds lackluster menu options and outdated decor(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/17/tt1936472/s/f364ab62f4f727f71647f9dab2a4dffe.jpg" />
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+  </programme>
+  <programme start="20180402180000 +0000" stop="20180402190000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Levanti's Italian Restaurant</sub-title>
+    <desc lang="en">Chef Ramsay visits an Italian eatery in Beaver, Pa., that's owned by a brother and sister who blame each other for the restaurant's failings(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/17/tt2105536/s/0994ac7030f09585449d36ae24be356a.jpg" />
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+  </programme>
+  <programme start="20180402190000 +0000" stop="20180402200000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Michon's</sub-title>
+    <desc lang="en">Chef Ramsay visits Michon's Smoked Meats &amp; Seafood Restaurant in College Park, Ga., to help modernize the eatery(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/17/tt1863777/s/135800c492b2f3c29577451e9d0c8086.jpg" />
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+  </programme>
+  <programme start="20180402200000 +0000" stop="20180402210000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Leone's</sub-title>
+    <desc lang="en">Chef Ramsay visits Leone's Restaurant, an Italian eatery in Montclair, N.J(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294/s/3f08f6868369355b208dbd66be10860e.jpg" />
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+  </programme>
+  <programme start="20180402210000 +0000" stop="20180402220000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Charlie's</sub-title>
+    <desc lang="en">Chef Ramsay visits Charlie's, an Italian eatery in La Verne, Cal., and finds lackluster menu options and outdated decor(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/17/tt1936472/s/f364ab62f4f727f71647f9dab2a4dffe.jpg" />
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+  </programme>
+  <programme start="20180402220000 +0000" stop="20180402230000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Olde Hitching Post</sub-title>
+    <desc lang="en">A visit to the historic Olde Hitching Post in Hanson, Mass., where the owner struggles with control issues(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/17/tt2097547/s/fa3a9a25369af9babb9e886f585b79f9.jpg" />
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+  </programme>
+  <programme start="20180402230000 +0000" stop="20180403000000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Chappy's</sub-title>
+    <desc lang="en">Chef Ramsay helps the owners of a Cajun-style restaurant in Nashville, who had to relocate their eatery after Hurricane Katrina but have been unable to rebuild their customer base(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-5-15/s/c247c5c688e997b919668e8827c791fd.jpg" />
+    <episode-num system="xmltv_ns">4.14.</episode-num>
+  </programme>
+  <programme start="20180403000000 +0000" stop="20180403010000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Prohibition Grille</sub-title>
+    <desc lang="en">A visit to the Prohibition Grille in Everett, Wash., which is owned by a former professional belly dancer who's having a hard time managing her restaurant business(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-5-14/s/8dee5cb8f5a5c1a75978683cff5edfd5.jpg" />
+    <episode-num system="xmltv_ns">4.13.</episode-num>
+  </programme>
+  <programme start="20180403010000 +0000" stop="20180403020000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Revisited</sub-title>
+    <desc lang="en">Chef Ramsay checks in on restaurants he's helped, including La Galleria in Boston; the Olde Hitching Post in Hanson, Mass.; and Prohibition Gastropub in Everett, Wash(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-6-10/s/75423997e678e73b0e796e38e88ba97c.jpg" />
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20180403020000 +0000" stop="20180403030100 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Zayna Flaming Grill, Part 1</sub-title>
+    <desc lang="en">Part 1 of 2. A family-owned Mediterranean restaurant in Redondo Beach, Cal., is plagued by internal struggles and food that's not up to standard(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-6-7/s/6f895c309a30245cf4e46590c493a450.jpg" />
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+  </programme>
+  <programme start="20180403030100 +0000" stop="20180403040000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Zayna Flaming Grill, Part 2</sub-title>
+    <desc lang="en">Conclusion. A family-owned Mediterranean restaurant in Redondo Beach, Cal., is plagued by internal struggles and food that's not up to standard(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-6-8/s/6237e2575ab4e5359ecc7c72683dcf95.jpg" />
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+  </programme>
+  <programme start="20180403040000 +0000" stop="20180403050000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Prohibition Grille</sub-title>
+    <desc lang="en">A visit to the Prohibition Grille in Everett, Wash., which is owned by a former professional belly dancer who's having a hard time managing her restaurant business(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-5-14/s/8dee5cb8f5a5c1a75978683cff5edfd5.jpg" />
+    <episode-num system="xmltv_ns">4.13.</episode-num>
+  </programme>
+  <programme start="20180403050000 +0000" stop="20180403060000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Revisited</sub-title>
+    <desc lang="en">Chef Ramsay checks in on restaurants he's helped, including La Galleria in Boston; the Olde Hitching Post in Hanson, Mass.; and Prohibition Gastropub in Everett, Wash(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-6-10/s/75423997e678e73b0e796e38e88ba97c.jpg" />
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20180403060000 +0000" stop="20180403070100 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Zayna Flaming Grill, Part 1</sub-title>
+    <desc lang="en">Part 1 of 2. A family-owned Mediterranean restaurant in Redondo Beach, Cal., is plagued by internal struggles and food that's not up to standard(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-6-7/s/6f895c309a30245cf4e46590c493a450.jpg" />
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+  </programme>
+  <programme start="20180403070100 +0000" stop="20180403080000 +0000" channel="HGTV">
+    <title lang="en">Kitchen Nightmares</title>
+    <sub-title lang="en">Zayna Flaming Grill, Part 2</sub-title>
+    <desc lang="en">Conclusion. A family-owned Mediterranean restaurant in Redondo Beach, Cal., is plagued by internal struggles and food that's not up to standard(c)</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Cooking</category>
+    <icon src="https://i.yo.tv/images/9/11294-6-8/s/6237e2575ab4e5359ecc7c72683dcf95.jpg" />
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+  </programme>
+  <programme start="20180403080000 +0000" stop="20180403090000 +0000" channel="HGTV">
+    <title lang="en">Nicole &amp; Jionni's Shore Flip</title>
+    <sub-title lang="en">Snooki &amp; Jionni Return to the Shore</sub-title>
+    <desc lang="en">In the series premiere, Nicole "Snooki" Polizzi and her husband Jionni LaValle buy their first Jersey Shore property to renovate and flip, but the huge job forces them to call on friends and family for help(c)</desc>
+    <category lang="en">Home &amp; Garden</category>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/p/se/d18756/s/A0C569AFC702EB34F0F3AA614A4D1115.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20180403090000 +0000" stop="20180403093000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180403093000 +0000" stop="20180403100000 +0000" channel="HGTV">
+    <title lang="en">Get on track with Cue</title>
+    <desc lang="en">Discover the best vaping experience available. Cue Vapor is vaping made simple. A spill-proof, easy to use, disposable cartridge vaping system available in a variety of colors and flavors(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180403100000 +0000" stop="20180403103000 +0000" channel="HGTV">
+    <title lang="en">Balding Solutions</title>
+    <desc lang="en">Are you concerned about hair loss? Hair Club offers all proven hair loss solutions tailored to your specific hair loss needs. Our personalized solutions are designed to work for all hair types and any stage of hair loss(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180403103000 +0000" stop="20180403110000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180403110000 +0000" stop="20180403113000 +0000" channel="HGTV">
+    <title lang="en">Love Your Hair!</title>
+    <desc lang="en">Viviscal – European hair secret now available in the US(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180403113000 +0000" stop="20180403120000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180403120000 +0000" stop="20180403123000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">5 O'Clock Is Dinnertime</sub-title>
+    <desc lang="en">Donnie brings his girlfriend Jenny McCarthy home to meet his mother(c)</desc>
+    <credits>
+      <actor>Henry Laun</actor>
+      <actor>Alma Wahlberg</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Paul Wahlberg</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Johnny Alves</actor>
+      <actor>Kari Burke</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/17/tt3475484/s/1d2679984761b4430fba8c5c36541e48.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20180403123000 +0000" stop="20180403130000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">Pauliday</sub-title>
+    <desc lang="en">Donnie and Paul bond during a wild car ride(c)</desc>
+    <credits>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Kari Burke</actor>
+      <actor>Henry Laun</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Johnny Alves</actor>
+      <actor>Alma Wahlberg</actor>
+      <actor>Paul Wahlberg</actor>
+      <actor>Arthur Wahlberg</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/17/tt3549394/s/644bc1caf1534ddf1d38ee235db0e291.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20180403130000 +0000" stop="20180403133000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">The Real Entourage</sub-title>
+    <desc lang="en">In the Season 1 finale, Mark surprises Johnny with a film audition(c)</desc>
+    <credits>
+      <actor>Johnny Alves</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Henry Laun</actor>
+      <actor>Paul Wahlberg</actor>
+      <actor>Kari Burke</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Alma Wahlberg</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/17/tt3549404/s/e0649493a574685c70a9ec30516d1dd6.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20180403133000 +0000" stop="20180403140000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">Prized Possessions</sub-title>
+    <desc lang="en">Mark tries to help Paul lose weight; Alma finds items from Mark and Donnie's childhood while cleaning out her garage(c)</desc>
+    <credits>
+      <actor>Kari Burke</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Paul Wahlberg</actor>
+      <actor>Johnny Alves</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Henry Laun</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Alma Wahlberg</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/17/tt3526030/s/1b76c8c522562216447cdf98ad2d30f5.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20180403140000 +0000" stop="20180403143000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">The Funky Bunch</sub-title>
+    <desc lang="en">Donnie and Mark prank Paul; Alma tries to find a gift for Donnie's girlfriend(c)</desc>
+    <credits>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Johnny Alves</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Henry Laun</actor>
+      <actor>Alma Wahlberg</actor>
+      <actor>Kari Burke</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Paul Wahlberg</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/17/tt3549402/s/d84615377e564b88903ea6134543dc74.jpg" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20180403143000 +0000" stop="20180403150000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">Eating Green</sub-title>
+    <desc lang="en">Alma reveals her kids' favourite family recipes; Mark presents an eating challenge to an old friend(c)</desc>
+    <credits>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Alma Wahlberg</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Kari Burke</actor>
+      <actor>Paul Wahlberg</actor>
+      <actor>Johnny Alves</actor>
+      <actor>Henry Laun</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/17/tt3549390/s/ef21b585a68e75776b6a28bc0299f8bf.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20180403150000 +0000" stop="20180403153000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">Sibling Rivalry</sub-title>
+    <desc lang="en">Paul and Mark go golfing, leaving their mother in charge of the restaurant(c)</desc>
+    <credits>
+      <actor>Alma Wahlberg</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Henry Laun</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Johnny Alves</actor>
+      <actor>Kari Burke</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Paul Wahlberg</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/9/60951/s/9777fab75508ae6fb4b3be9187d1797f.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20180403153000 +0000" stop="20180403160000 +0000" channel="HGTV">
+    <title lang="en">Wahlburgers</title>
+    <sub-title lang="en">Baby Knows Best</sub-title>
+    <desc lang="en">The guys head to Toronto to check out a site for the next Wahlburgers location(c)</desc>
+    <credits>
+      <actor>Johnny Alves</actor>
+      <actor>Arthur Wahlberg</actor>
+      <actor>Henry Laun</actor>
+      <actor>Kari Burke</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Alma Wahlberg</actor>
+      <actor>Paul Wahlberg</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Food</category>
+    <icon src="https://i.yo.tv/images/9/60951/s/9777fab75508ae6fb4b3be9187d1797f.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20180403160000 +0000" stop="20180403163000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Gator Bait</sub-title>
+    <desc lang="en">Billy and Ricky try to rescue baby alligators from fire ants, but they anger the mother alligator; and Billy handles a roach problem(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt1748763/s/54bda0aa8a5d3f2fa27fe8a68d283af7.jpg" />
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20180403163000 +0000" stop="20180403170000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Monster Mice</sub-title>
+    <desc lang="en">Billy is attacked by wasps; and Billy and Ricky help a single mother who has a mouse problem(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt1803836/s/cdb92e20a28e62bb3438fcfbed602ff7.jpg" />
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+  </programme>
+  <programme start="20180403170000 +0000" stop="20180403173000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Hoarder House Rats</sub-title>
+    <desc lang="en">A house full of rats is tackled; and Billy tries to capture an armadillo on a golf course(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2258921/s/62c4ceaec7f270cd83be276acf436e46.jpg" />
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+  </programme>
+  <programme start="20180403173000 +0000" stop="20180403180000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Skunks on a Plane</sub-title>
+    <desc lang="en">A skunk in an airplane hangar; and an animal fallen into the river at a water park(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/31745/s/6b7f2be7d98c2289dcf7fe355b0403f1.jpg" />
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+  </programme>
+  <programme start="20180403180000 +0000" stop="20180403183000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Aerial Attack</sub-title>
+    <desc lang="en">A geese problem in Charlotte has Billy defending himself during an attack(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/31745/s/6b7f2be7d98c2289dcf7fe355b0403f1.jpg" />
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20180403183000 +0000" stop="20180403190000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Good Morning Gators</sub-title>
+    <desc lang="en">Billy and Ricky hunt alligators in a children's park in Savannah, Ga., and are observed by a crew from "Good Morning America."(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/31745/s/6b7f2be7d98c2289dcf7fe355b0403f1.jpg" />
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+  </programme>
+  <programme start="20180403190000 +0000" stop="20180403193000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Suck It Up</sub-title>
+    <desc lang="en">Billy and Ricky go to Miami to capture a snake in a home; and to relocate a beehive(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/31745/s/6b7f2be7d98c2289dcf7fe355b0403f1.jpg" />
+    <episode-num system="xmltv_ns">3.6.</episode-num>
+  </programme>
+  <programme start="20180403193000 +0000" stop="20180403200000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Python Power</sub-title>
+    <desc lang="en">Season 5 premiere. Billy tries to trap a rattlesnake in a backyard; a long python wraps itself around Billy's neck(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/31745/s/6b7f2be7d98c2289dcf7fe355b0403f1.jpg" />
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+  <programme start="20180403200000 +0000" stop="20180403203000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Raccoon Cage Match</sub-title>
+    <desc lang="en">Billy targets a raccoon at a rehabilitation center; and he battles a massive beehive with Ricky(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/31745/s/6b7f2be7d98c2289dcf7fe355b0403f1.jpg" />
+    <episode-num system="xmltv_ns">5.3.</episode-num>
+  </programme>
+  <programme start="20180403203000 +0000" stop="20180403210000 +0000" channel="HGTV">
+    <title lang="en">Billy the Exterminator</title>
+    <sub-title lang="en">Catch 'Em If You Can</sub-title>
+    <desc lang="en">Billy hunts down donkeys with a tranquilizer gun; and he corrals a loose rooster(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2440808/s/867c9380bf464df189925483412e3b07.jpg" />
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+  </programme>
+  <programme start="20180403210000 +0000" stop="20180403213000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Can't See the Sherwood Forrest for the Trees</sub-title>
+    <desc lang="en">A giant Robin Hood statue is transported by Todd and Tamera(c)</desc>
+    <credits>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Jarrett Joyce</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://i.yo.tv/images/17/tt4427662/s/6905dfd9db2f811852d713f4a7e72e45.jpg" />
+    <episode-num system="xmltv_ns">7.1.</episode-num>
+  </programme>
+  <programme start="20180403213000 +0000" stop="20180403220000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Cruisin' for a Bruisin'</sub-title>
+    <desc lang="en">Jennifer transports a six-layer wedding cake; Marc hauls a vintage bus(c)</desc>
+    <credits>
+      <actor>Chris Kikelhan</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Roy Garber</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2433886/s/350bcbc0719bde1bb6de8e6a822eb757.jpg" />
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+  </programme>
+  <programme start="20180403220000 +0000" stop="20180403223000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Geometrically Challenged</sub-title>
+    <desc lang="en">Jennifer hauls a small racing boat; Jarrett pays the price for taking bad measurements(c)</desc>
+    <credits>
+      <actor>Dusty Davie</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Marc Springer</actor>
+      <actor>Christopher Hanna</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/50592/s/260151947d7276d877becc90268a7e6f.jpg" />
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+  </programme>
+  <programme start="20180403223000 +0000" stop="20180403230000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Problems Set in Stone</sub-title>
+    <desc lang="en">Marc hauls an antique camper; Dusty transports a sculpture(c)</desc>
+    <credits>
+      <actor>Chris Kikelhan</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Marc Springer</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Roy Garber</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Dusty Davie</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt3920760/s/6ff43d877fdc8c33f7d0afa4b7570662.jpg" />
+    <episode-num system="xmltv_ns">5.17.</episode-num>
+  </programme>
+  <programme start="20180403230000 +0000" stop="20180403233000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Hummers and Bummers</sub-title>
+    <desc lang="en">Jarrett hauls an odd sculpture to photo-shoot locations(c)</desc>
+    <credits>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Marc Springer</actor>
+      <actor>Chris Kikelhan</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt3892468/s/e632da493a7e89902bd82154a03798d9.jpg" />
+    <episode-num system="xmltv_ns">5.13.</episode-num>
+  </programme>
+  <programme start="20180403233000 +0000" stop="20180404000000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">A Fairy Tale Disaster</sub-title>
+    <desc lang="en">An unwelcome passenger tags along with Chris and Robbie(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Roy Garber</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt3010700/s/ff5ae128e6f5d78078e22b2d593de9f2.jpg" />
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20180404000000 +0000" stop="20180404003000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">More Bullship</sub-title>
+    <desc lang="en">A houseboat is hauled by Chris and Robbie; Jennifer and Roy transport live bulls(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2571374/s/afc709499cc97154e80879c4291973cd.jpg" />
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+  </programme>
+  <programme start="20180404003000 +0000" stop="20180404010000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Fire and Rescue</sub-title>
+    <desc lang="en">A pair of antique fire engines are hauled by Dusty in the Season 8 premiere(c)</desc>
+    <credits>
+      <actor>Chris Kikelhan</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Roy Garber</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Johnny Chavez</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://i.yo.tv/images/17/tt4427658/s/dca0fdf7a00cf3cc984e276692c53c1c.jpg" />
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+  </programme>
+  <programme start="20180404010000 +0000" stop="20180404013000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Up in Smoke &amp; Going Broke</sub-title>
+    <desc lang="en">Samko hauls a barn in the Season 7 finale. Later, Marc transports a glass water pipe(c)</desc>
+    <credits>
+      <actor>Jennifer Brennan</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Roy Garber</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Chris Kikelhan</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt4259380/s/46b75c705d4dd47a33b942761d3d38bf.jpg" />
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+  </programme>
+  <programme start="20180404013000 +0000" stop="20180404020000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Love at First Flight</sub-title>
+    <desc lang="en">Jennifer delivers a parrot to its owner; Roy's truck breaks down(c)</desc>
+    <credits>
+      <actor>Todd Sturgis</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Marc Springer</actor>
+      <actor>Roy Garber</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2395238/s/4232175fa4cd1ad3e7db5bd8e4ede472.jpg" />
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20180404020000 +0000" stop="20180404023000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Bullship</sub-title>
+    <desc lang="en">Jennifer encounters unforeseen difficulties while hauling two bulls; Marc transports a delicate test aircraft and accidentally leaves some parts behind when he switches trailers(c)</desc>
+    <credits>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Roy Garber</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Chris Kikelhan</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2161033/s/a328d3b510a1202c701b0f2bf64a5fc3.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20180404023000 +0000" stop="20180404030100 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Power Rangers &amp; Vampire Dangers</sub-title>
+    <desc lang="en">A 16-foot Power Ranger figure is hauled by Jenn(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Tamera Sturgis</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt4239708/s/9b5d42a0ad8e7a7d24a3f930f727a4d1.jpg" />
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+  </programme>
+  <programme start="20180404030100 +0000" stop="20180404033100 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">The Carney Code</sub-title>
+    <desc lang="en">Jarrett ships a rare electric sports car; Marc uncovers a safety hazard with his trailers(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Marc Springer</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2597960/s/fa6c9b57e3ccefcb035e652a94c2081d.jpg" />
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20180404033100 +0000" stop="20180404040000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Mud Bug Boogie</sub-title>
+    <desc lang="en">Marc gets caught in a hailstorm while hauling a trolleybus; Jennifer races to deliver live crawfish to a restaurant opening in Austin(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Todd Sturgis</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2433870/s/f1f1036765748b35ec84a44010451a4e.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20180404040000 +0000" stop="20180404043000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">More Bullship</sub-title>
+    <desc lang="en">A houseboat is hauled by Chris and Robbie; Jennifer and Roy transport live bulls(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2571374/s/afc709499cc97154e80879c4291973cd.jpg" />
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+  </programme>
+  <programme start="20180404043000 +0000" stop="20180404050000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Fire and Rescue</sub-title>
+    <desc lang="en">A pair of antique fire engines are hauled by Dusty in the Season 8 premiere(c)</desc>
+    <credits>
+      <actor>Chris Kikelhan</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Roy Garber</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Johnny Chavez</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://i.yo.tv/images/17/tt4427658/s/dca0fdf7a00cf3cc984e276692c53c1c.jpg" />
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+  </programme>
+  <programme start="20180404050000 +0000" stop="20180404053000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Up in Smoke &amp; Going Broke</sub-title>
+    <desc lang="en">Samko hauls a barn in the Season 7 finale. Later, Marc transports a glass water pipe(c)</desc>
+    <credits>
+      <actor>Jennifer Brennan</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Roy Garber</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Chris Kikelhan</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt4259380/s/46b75c705d4dd47a33b942761d3d38bf.jpg" />
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+  </programme>
+  <programme start="20180404053000 +0000" stop="20180404060000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Love at First Flight</sub-title>
+    <desc lang="en">Jennifer delivers a parrot to its owner; Roy's truck breaks down(c)</desc>
+    <credits>
+      <actor>Todd Sturgis</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Marc Springer</actor>
+      <actor>Roy Garber</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2395238/s/4232175fa4cd1ad3e7db5bd8e4ede472.jpg" />
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20180404060000 +0000" stop="20180404063000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Bullship</sub-title>
+    <desc lang="en">Jennifer encounters unforeseen difficulties while hauling two bulls; Marc transports a delicate test aircraft and accidentally leaves some parts behind when he switches trailers(c)</desc>
+    <credits>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Marc Springer</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Roy Garber</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Bill Lloyd</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Chris Kikelhan</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2161033/s/a328d3b510a1202c701b0f2bf64a5fc3.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20180404063000 +0000" stop="20180404070100 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Power Rangers &amp; Vampire Dangers</sub-title>
+    <desc lang="en">A 16-foot Power Ranger figure is hauled by Jenn(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Christopher Hanna</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Todd Sturgis</actor>
+      <actor>Tamera Sturgis</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt4239708/s/9b5d42a0ad8e7a7d24a3f930f727a4d1.jpg" />
+    <episode-num system="xmltv_ns">6.4.</episode-num>
+  </programme>
+  <programme start="20180404070100 +0000" stop="20180404073100 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">The Carney Code</sub-title>
+    <desc lang="en">Jarrett ships a rare electric sports car; Marc uncovers a safety hazard with his trailers(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Johnny Chavez</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Marc Springer</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2597960/s/fa6c9b57e3ccefcb035e652a94c2081d.jpg" />
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20180404073100 +0000" stop="20180404080000 +0000" channel="HGTV">
+    <title lang="en">Shipping Wars</title>
+    <sub-title lang="en">Mud Bug Boogie</sub-title>
+    <desc lang="en">Marc gets caught in a hailstorm while hauling a trolleybus; Jennifer races to deliver live crawfish to a restaurant opening in Austin(c)</desc>
+    <credits>
+      <actor>Bill Lloyd</actor>
+      <actor>Chris Kikelhan</actor>
+      <actor>Jarrett Joyce</actor>
+      <actor>Robbie Welsh</actor>
+      <actor>Dusty Davie</actor>
+      <actor>Jennifer Brennan</actor>
+      <actor>Roy Garber</actor>
+      <actor>Tamera Sturgis</actor>
+      <actor>Jessica Samko</actor>
+      <actor>Todd Sturgis</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2433870/s/f1f1036765748b35ec84a44010451a4e.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20180404080000 +0000" stop="20180404090000 +0000" channel="HGTV">
+    <title lang="en">Nicole &amp; Jionni's Shore Flip</title>
+    <sub-title lang="en">Snooki v. Jionni: Kid-Room Showdown</sub-title>
+    <desc lang="en">Nicole heads to Los Angeles to promote her new book, leaving Jionni to juggle parenting and flip house renovations(c)</desc>
+    <category lang="en">Home &amp; Garden</category>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt5535672/s/299f3c465ed092f5ea5d9edbe146fe33.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20180404090000 +0000" stop="20180404093000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404093000 +0000" stop="20180404100000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404100000 +0000" stop="20180404103000 +0000" channel="HGTV">
+    <title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
+    <desc lang="en">Cindy Crawford's Beauty Secrets! Cindy's Targeted Beauty Trio is new for 2017! Rediscover your skin's youthful radiance. This new offer is free to you as part of Meaningful Beauty ULTRA! That's 3 free gifts today!(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180404103000 +0000" stop="20180404110000 +0000" channel="HGTV">
+    <title lang="en">Love Your Hair!</title>
+    <desc lang="en">Viviscal – European hair secret now available in the US(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180404110000 +0000" stop="20180404113000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404113000 +0000" stop="20180404120000 +0000" channel="HGTV">
+    <title lang="en">Fish Oil Benefits Examined</title>
+    <desc lang="en">Say goodbye to bad cholesterol, joint pain, mood swings and brain fog in 30 days or less(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180404120000 +0000" stop="20180404130000 +0000" channel="HGTV">
+    <title lang="en">Barter Kings</title>
+    <sub-title lang="en">Clowning Around in Utah</sub-title>
+    <desc lang="en">The guys open a new trade shop in Utah(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt3108038/s/56859d7ae59c2ebad300f6491d6209cb.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20180404130000 +0000" stop="20180404140000 +0000" channel="HGTV">
+    <title lang="en">Barter Kings</title>
+    <sub-title lang="en">For Sail. Will Consider Trade</sub-title>
+    <desc lang="en">Traders barter for a deck boat(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2698614/s/6a6f078e3bf52e70dc0570256dd454a7.jpg" />
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20180404140000 +0000" stop="20180404150000 +0000" channel="HGTV">
+    <title lang="en">Barter Kings</title>
+    <sub-title lang="en">Big Rig or Bust</sub-title>
+    <desc lang="en">Traders barter for an 18-wheeler(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt2623568/s/ed05615459af2b277622766903dc2eef.jpg" />
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20180404150000 +0000" stop="20180404160000 +0000" channel="HGTV">
+    <title lang="en">Barter Kings</title>
+    <sub-title lang="en">Puppy Love</sub-title>
+    <desc lang="en">Traders barter for an air-conditioning unit(c)</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/17/tt3113834/s/c222138b19a1216ab33cb265bbc98b74.jpg" />
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+  </programme>
+  <programme start="20180404160000 +0000" stop="20180404163000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">A Big Duck-ing Call</sub-title>
+    <desc lang="en">Duck Commander's 40-year anniversary is celebrated; Willie constructs an enormous duck call; and Miss Kay decides she wants a new house(c)</desc>
+    <credits>
+      <actor>Korie Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Jase Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738-1-8/s/06d4b8945ae308534d1599fd3398b79c.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404163000 +0000" stop="20180404170000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Willie Stay or Willie Go</sub-title>
+    <desc lang="en">In the first-season finale, the Duck Commander employees head out on a company retreat(c)</desc>
+    <credits>
+      <actor>Jep Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Korie Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738-1-15/s/4ccc4b077311421151b935f6cd339793.jpg" />
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404170000 +0000" stop="20180404173000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Daddy's Got a Gun</sub-title>
+    <desc lang="en">Willie instills preemptive fear into his daughter Sadie's new boyfriend. Meanwhile, Sadie is preoccupied with Phil and Si(c)</desc>
+    <credits>
+      <actor>Jase Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Jessica Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738-1-11/s/0b2439dc6bfb216c8ebb72a9d1dc11fb.jpg" />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404173000 +0000" stop="20180404180000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Redneck Roadtrip</sub-title>
+    <desc lang="en">Jase heads out on a road trip with Si, Martin and Jep in the Duck Commander RV. Meanwhile, Miss Kay finds a gator in the yard(c)</desc>
+    <credits>
+      <actor>Korie Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Willie Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738-1-13/s/fd2857e8516b0af32750df381fb4841a.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404180000 +0000" stop="20180404183000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Drag Me to Glory</sub-title>
+    <desc lang="en">NASCAR driver Clint Bowyer visits the Duck Commander warehouse; Phil and Si try to fix Miss Kay's barbecue(c)</desc>
+    <credits>
+      <actor>Jase Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Jessica Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738-2-12/s/8cf93ef77ff9d119b135a5f87acbe913.jpg" />
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404183000 +0000" stop="20180404190000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Of Mattresses and Men</sub-title>
+    <desc lang="en">The guys visit a doughnut shop; Si wins a new camper; and Willie shops for furniture with Phil and Miss Kay(c)</desc>
+    <credits>
+      <actor>Willie Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Jep Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738-2-10/s/3205b34a4409bcb6f7eafb3da0f3a4bd.jpg" />
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404190000 +0000" stop="20180404193000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Truck Commander</sub-title>
+    <desc lang="en">Willie and Korie buy John Luke a car. Meanwhile, Jase accidentally sinks Phil's boat(c)</desc>
+    <credits>
+      <actor>Jep Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/images/9/42738/s/a8647a30b5ace375e510d30a1ab14dd8.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404193000 +0000" stop="20180404200000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Fowl Playhouse</sub-title>
+    <desc lang="en">Jase and the guys build a playhouse for Jep's kids; Phil and Si tease Willie(c)</desc>
+    <credits>
+      <actor>Kay Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Jep Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/17/tt3548294/s/0b41f068328b7d77d5c7b5bcc08fb11f.jpg" />
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404200000 +0000" stop="20180404203000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">Burger Commander</sub-title>
+    <desc lang="en">Willie and Jase face off in a cooking contest; Phil and Jep bond in an unlikely place(c)</desc>
+    <credits>
+      <actor>Missy Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Phil Robertson</actor>
+      <actor>Jase Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Kay Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/17/tt3495810/s/4a677776e52a65ee540964661cb4fd31.jpg" />
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404203000 +0000" stop="20180404210000 +0000" channel="HGTV">
+    <title lang="en">Duck Dynasty</title>
+    <sub-title lang="en">G.I. Si</sub-title>
+    <desc lang="en">Willie and Jase organize a paintball match in order to settle an argument(c)</desc>
+    <credits>
+      <actor>Jase Robertson</actor>
+      <actor>Jessica Robertson</actor>
+      <actor>Kay Robertson</actor>
+      <actor>Jep Robertson</actor>
+      <actor>Missy Robertson</actor>
+      <actor>Korie Robertson</actor>
+      <actor>Si Robertson</actor>
+      <actor>Willie Robertson</actor>
+      <actor>Phil Robertson</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Business</category>
+    <icon src="https://i.yo.tv/images/17/tt3532816/s/7ba359d85fac7760bd9dbb834e894a8d.jpg" />
+    <episode-num system="xmltv_ns">4.5.</episode-num>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404210000 +0000" stop="20180404213000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Pump &amp; Gun</sub-title>
+    <desc lang="en">A 1943 trap machine; a rusty yet rare pump(c)</desc>
+    <credits>
+      <actor>Kelly Mayer</actor>
+      <actor>Brettly</actor>
+      <actor>Kyle</actor>
+      <actor>Ron Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt2245365/s/ee5bc41224723f68081d0ffbdcc2cf56.jpg" />
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404213000 +0000" stop="20180404220000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Mixed Signals</sub-title>
+    <desc lang="en">A train signal from the 1920s. Also: Kelly plans a car show(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kyle</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt3517720/s/d2199d7e46f265b198deea8a0c780e7f.jpg" />
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404220000 +0000" stop="20180404230000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Taking the Reins</sub-title>
+    <desc lang="en">A rusted-out 1956 Willys truck is transformed into a BBQ kitchen-on-wheels; a mini-Divco "milk truck" kiddie car from the 1960s is turned into a souped-up go-kart; and Bob is eager to restore a 1952 Bally's coin-operated horse ride(c)</desc>
+    <credits>
+      <actor>Ron Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Kowboy</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Brettly</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/p/se/d37466/s/D04034611F78C3F2AA58866DA1B28DF5.jpg" />
+    <episode-num system="xmltv_ns">6.11.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404230000 +0000" stop="20180404233000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Un-Kniev-able</sub-title>
+    <desc lang="en">A vintage arcade game; a 1976 Evel Knievel Junior Roadmaster bicycle(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kowboy</actor>
+      <actor>Kyle</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/p/se/d37466/s/3C5E27FC07178D78F583C66414DEAE10.jpg" />
+    <episode-num system="xmltv_ns">5.5.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180404233000 +0000" stop="20180405000000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">George Clinton: Funky Yeah!</sub-title>
+    <desc lang="en">A 1920s Chickering baby grand piano is restored for George Clinton in the Season 6 premiere(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kowboy</actor>
+      <actor>Kyle</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20180405000000 +0000" stop="20180405003000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Secret Fan</sub-title>
+    <desc lang="en">A 1960s go-kart; and a 1950s fan(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kyle</actor>
+      <actor>Kowboy</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20180405003000 +0000" stop="20180405010000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Suds and Duds</sub-title>
+    <desc lang="en">A 1967 Honda Scrambler motorcycle(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kowboy</actor>
+      <actor>Kyle</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405010000 +0000" stop="20180405013000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Star Wreck</sub-title>
+    <desc lang="en">A 1970s Carl's Jr. sign is restored(c)</desc>
+    <credits>
+      <actor>Tyler Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Brettly</actor>
+      <actor>Kyle</actor>
+      <actor>Kowboy</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Ron Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt3517750/s/5f4cba848cfaffadbfb5cb1fc3549626.jpg" />
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405013000 +0000" stop="20180405023000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Billy Joel: A Matter of Rust</sub-title>
+    <desc lang="en">Billy Joel visits the shop. Also: a walk-behind tractor(c)</desc>
+    <credits>
+      <actor>Tyler Dale</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Brettly</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Ron Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt2922952/s/702d241d3a4b02143a1d95fda3b58c1d.jpg" />
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405023000 +0000" stop="20180405030100 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Knockout Restoration</sub-title>
+    <desc lang="en">A vintage Punch-Out!! arcade game(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kowboy</actor>
+      <actor>Kyle</actor>
+      <actor>Ron Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Kelly Mayer</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/p/se/d37466/s/99EA74D3D468E7F21C05A2C9AD64B6C2.jpg" />
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405030100 +0000" stop="20180405033100 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Tall Order</sub-title>
+    <desc lang="en">A 1930s Pep Boys marquee; a 1948 soda machine damaged by a hurricane(c)</desc>
+    <credits>
+      <actor>Kelly Mayer</actor>
+      <actor>Brettly</actor>
+      <actor>Ron Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20180405033100 +0000" stop="20180405040000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Cold Cuts</sub-title>
+    <desc lang="en">Rick and Co. put the focus on a 1900s meat slicer and a 1950s vending machine for stamps(c)</desc>
+    <credits>
+      <actor>Kelly Mayer</actor>
+      <actor>Kowboy</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Brettly</actor>
+      <actor>Ron Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt2245363/s/5908d7f1831ef71e35efb7707ef67160.jpg" />
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405040000 +0000" stop="20180405043000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Secret Fan</sub-title>
+    <desc lang="en">A 1960s go-kart; and a 1950s fan(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kyle</actor>
+      <actor>Kowboy</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20180405043000 +0000" stop="20180405050000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Suds and Duds</sub-title>
+    <desc lang="en">A 1967 Honda Scrambler motorcycle(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Kowboy</actor>
+      <actor>Kyle</actor>
+      <actor>Rick Dale</actor>
+      <actor>Ron Dale</actor>
+      <actor>Tyler Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405050000 +0000" stop="20180405053000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Star Wreck</sub-title>
+    <desc lang="en">A 1970s Carl's Jr. sign is restored(c)</desc>
+    <credits>
+      <actor>Tyler Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Brettly</actor>
+      <actor>Kyle</actor>
+      <actor>Kowboy</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Ron Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt3517750/s/5f4cba848cfaffadbfb5cb1fc3549626.jpg" />
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405053000 +0000" stop="20180405053000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Billy Joel: A Matter of Rust</sub-title>
+    <desc lang="en">Billy Joel visits the shop. Also: a walk-behind tractor(c)</desc>
+    <credits>
+      <actor>Tyler Dale</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Brettly</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Ron Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt2922952/s/702d241d3a4b02143a1d95fda3b58c1d.jpg" />
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405053000 +0000" stop="20180405063000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Billy Joel: A Matter of Rust</sub-title>
+    <desc lang="en">Billy Joel visits the shop. Also: a walk-behind tractor(c)</desc>
+    <credits>
+      <actor>Tyler Dale</actor>
+      <actor>Kelly Mayer</actor>
+      <actor>Brettly</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Ron Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt2922952/s/702d241d3a4b02143a1d95fda3b58c1d.jpg" />
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405063000 +0000" stop="20180405070100 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Knockout Restoration</sub-title>
+    <desc lang="en">A vintage Punch-Out!! arcade game(c)</desc>
+    <credits>
+      <actor>Brettly</actor>
+      <actor>Kowboy</actor>
+      <actor>Kyle</actor>
+      <actor>Ron Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Kelly Mayer</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/p/se/d37466/s/99EA74D3D468E7F21C05A2C9AD64B6C2.jpg" />
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405070100 +0000" stop="20180405073100 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Tall Order</sub-title>
+    <desc lang="en">A 1930s Pep Boys marquee; a 1948 soda machine damaged by a hurricane(c)</desc>
+    <credits>
+      <actor>Kelly Mayer</actor>
+      <actor>Brettly</actor>
+      <actor>Ron Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kowboy</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/9/34015/s/90d69200f02801e693e5ca9005c6fc8e.jpg" />
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20180405073100 +0000" stop="20180405080000 +0000" channel="HGTV">
+    <title lang="en">American Restoration</title>
+    <sub-title lang="en">Cold Cuts</sub-title>
+    <desc lang="en">Rick and Co. put the focus on a 1900s meat slicer and a 1950s vending machine for stamps(c)</desc>
+    <credits>
+      <actor>Kelly Mayer</actor>
+      <actor>Kowboy</actor>
+      <actor>Rick Dale</actor>
+      <actor>Kyle</actor>
+      <actor>Tyler Dale</actor>
+      <actor>Brettly</actor>
+      <actor>Ron Dale</actor>
+    </credits>
+    <category lang="en">Hobbies &amp; Crafts</category>
+    <icon src="https://i.yo.tv/images/17/tt2245363/s/5908d7f1831ef71e35efb7707ef67160.jpg" />
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405080000 +0000" stop="20180405090000 +0000" channel="HGTV">
+    <title lang="en">Nicole &amp; Jionni's Shore Flip</title>
+    <sub-title lang="en">Only the Best for Snooki's Guest</sub-title>
+    <desc lang="en">Snooki and Jionni tackle the guest bedroom and bathroom, but need to take a break from the flip to go on a date as stress begins to set in(c)</desc>
+    <category lang="en">Home &amp; Garden</category>
+    <category lang="en">Reality</category>
+    <icon src="https://i.yo.tv/p/se/d18756/s/79387867104FAC7F37337DD50B070BCA.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20180405090000 +0000" stop="20180405093000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405093000 +0000" stop="20180405100000 +0000" channel="HGTV">
+    <title lang="en">New Larry King Update</title>
+    <sub-title lang="en">Is Your Credit In Crisis. These credit secrets could change your financial life!. Is Your Credit In Crisis. These credit secrets could change your financial life!</sub-title>
+    <desc lang="en">Shocking new interview with renowned credit expert, reveals little-known secrets to improving your credit score. Larry King investigates America's ongoing credit crisis, and how one simple solution is already helping thousands recover(c)</desc>
+  </programme>
+  <programme start="20180405100000 +0000" stop="20180405103000 +0000" channel="HGTV">
+    <title lang="en">Get on track with Cue</title>
+    <desc lang="en">Discover the best vaping experience available. Cue Vapor is vaping made simple. A spill-proof, easy to use, disposable cartridge vaping system available in a variety of colors and flavors(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180405103000 +0000" stop="20180405110000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405110000 +0000" stop="20180405113000 +0000" channel="HGTV">
+    <title lang="en">Fish Oil Benefits Examined</title>
+    <desc lang="en">Say goodbye to bad cholesterol, joint pain, mood swings and brain fog in 30 days or less(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Infomercial</category>
+  </programme>
+  <programme start="20180405113000 +0000" stop="20180405120000 +0000" channel="HGTV">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(c)</desc>
+    <category lang="en">Other</category>
+    <category lang="en">Local</category>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405120000 +0000" stop="20180405130000 +0000" channel="HGTV">
+    <title lang="en">Flipping Boston</title>
+    <sub-title lang="en">Pete's-A-Place</sub-title>
+    <desc lang="en">The guys renovate Pete's pizza shop(c)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d6494/s/C81ACE685A864F1802F65DECDB1AD1DA.jpg" />
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20180405130000 +0000" stop="20180405140000 +0000" channel="HGTV">
+    <title lang="en">Flipping Boston</title>
+    <sub-title lang="en">Dave's Design Dilemma</sub-title>
+    <desc lang="en">Pete and Dave clash over design plans for a new-construction home(c)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d6494/s/C81ACE685A864F1802F65DECDB1AD1DA.jpg" />
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20180405140000 +0000" stop="20180405150000 +0000" channel="HGTV">
+    <title lang="en">Flipping Boston</title>
+    <sub-title lang="en">Dollars and Sense</sub-title>
+    <desc lang="en">Pete and Dave go all in on a fixer-upper(c)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d6494/s/C81ACE685A864F1802F65DECDB1AD1DA.jpg" />
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20180405150000 +0000" stop="20180405160000 +0000" channel="HGTV">
+    <title lang="en">Flipping Vegas</title>
+    <sub-title lang="en">Day Care House</sub-title>
+    <desc lang="en">Scott buys a former day care(c)</desc>
+    <credits>
+      <actor>Amie Yancey</actor>
+      <actor>Scott Yancey</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d37237/s/712C1A9E31C3E0D6CE1F748E391891E4.jpg" />
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405160000 +0000" stop="20180405170000 +0000" channel="HGTV">
+    <title lang="en">Flipping Vegas</title>
+    <sub-title lang="en">Class Action House</sub-title>
+    <desc lang="en">Real estate investor Scott Yancey's latest flip is a house full of mould. How will he turn this potential loser into a big money winner?(c)</desc>
+    <credits>
+      <actor>Amie Yancey</actor>
+      <actor>Scott Yancey</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d37237/s/9575BC69B109854F0AC46257BC3528B9.jpg" />
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405170000 +0000" stop="20180405180000 +0000" channel="HGTV">
+    <title lang="en">Flipping Vegas</title>
+    <sub-title lang="en">Red Rock House</sub-title>
+    <desc lang="en">Real estate investor Scott winds up in hospital with life- threatening chest pains when he takes a big risk on a huge house in a high-end golf community(c)</desc>
+    <credits>
+      <actor>Amie Yancey</actor>
+      <actor>Scott Yancey</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d37237/s/454F1F39ABD6E4322D35D481815B8A06.jpg" />
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405180000 +0000" stop="20180405190000 +0000" channel="HGTV">
+    <title lang="en">Flipping Vegas</title>
+    <sub-title lang="en">Blackmail House</sub-title>
+    <desc lang="en">A private detective's former home is purchased by Scott(c)</desc>
+    <credits>
+      <actor>Amie Yancey</actor>
+      <actor>Scott Yancey</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d37237/s/4662947573DD93659564799B57F89ED5.jpg" />
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405190000 +0000" stop="20180405200000 +0000" channel="HGTV">
+    <title lang="en">Flipping Vegas</title>
+    <sub-title lang="en">Flip Gone Wrong</sub-title>
+    <desc lang="en">Scott buys a house from a fellow flipper whose half- finished renovations leave him with some major problems(c)</desc>
+    <credits>
+      <actor>Scott Yancey</actor>
+      <actor>Amie Yancey</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/images/17/tt1714050/s/c3ab005727e708e5579f440486782b86.jpg" />
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405200000 +0000" stop="20180405210000 +0000" channel="HGTV">
+    <title lang="en">Flipping Vegas</title>
+    <sub-title lang="en">Twins House</sub-title>
+    <desc lang="en">Bold real estate investor Scott Yancey takes a punt on a filthy house in an upscale Vegas suburb. Can he transform it into someone's dream home?(c)</desc>
+    <credits>
+      <actor>Scott Yancey</actor>
+      <actor>Amie Yancey</actor>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Real Estate</category>
+    <icon src="https://i.yo.tv/p/se/d37237/s/4AB1E6F8D0D07276F9C45D6E6F747FED.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405210000 +0000" stop="20180405213000 +0000" channel="HGTV">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Fontan-o-rama</sub-title>
+    <desc lang="en">Fontana, California is explored(c)</desc>
+    <credits>
+      <actor>Dan and Laura Dotson</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Dave Hester</actor>
+      <actor>Barry Weiss</actor>
+      <actor>Jarrod Schulz</actor>
+    </credits>
+    <category lang="en">Other</category>
+    <category lang="en">Serial</category>
+    <icon src="https://i.yo.tv/images/9/34971/s/774c4129fe1df68fed2d3f191e016363.jpg" />
+    <episode-num system="xmltv_ns">6.14.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405213000 +0000" stop="20180405220000 +0000" channel="HGTV">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Mr. Nezhoda's Opus</sub-title>
+    <desc lang="en">Torrance, California is toured(c)</desc>
+    <credits>
+      <actor>Barry Weiss</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan and Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Dave Hester</actor>
+      <actor>Jarrod Schulz</actor>
+    </credits>
+    <category lang="en">Other</category>
+    <category lang="en">Serial</category>
+    <icon src="https://i.yo.tv/images/9/34971/s/774c4129fe1df68fed2d3f191e016363.jpg" />
+    <episode-num system="xmltv_ns">6.15.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405220000 +0000" stop="20180405223000 +0000" channel="HGTV">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Leader of the Packed</sub-title>
+    <desc lang="en">Bellflower, California is visited(c)</desc>
+    <credits>
+      <actor>Dave Hester</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Barry Weiss</actor>
+      <actor>Dan and Laura Dotson</actor>
+    </credits>
+    <category lang="en">Other</category>
+    <category lang="en">Serial</category>
+    <icon src="https://i.yo.tv/images/9/34971/s/774c4129fe1df68fed2d3f191e016363.jpg" />
+    <episode-num system="xmltv_ns">6.16.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405223000 +0000" stop="20180405230000 +0000" channel="HGTV">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Padian: P.I.</sub-title>
+    <desc lang="en">Season 7 begins with Ivy looking to score items he needs in Fontana, California while Jarrod and Brandi decide they'll have to employ a sharp strategy in order to land a good locker(c)</desc>
+    <credits>
+      <actor>Barry Weiss</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan and Laura Dotson</actor>
+      <actor>Dave Hester</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Darrell Sheets</actor>
+    </credits>
+    <category lang="en">Other</category>
+    <category lang="en">Serial</category>
+    <icon src="https://i.yo.tv/images/9/34971-7-1/s/961c950e0debaba13731a3b768ad63f5.jpg" />
+    <episode-num system="xmltv_ns">6.0.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405230000 +0000" stop="20180405233000 +0000" channel="HGTV">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Thrill of a Kitty and the Agony of Smoked Meat</sub-title>
+    <desc lang="en">In Moreno Valley, California Darrell proves that sometimes treasure can look like trash; Mary tries to elicit information from the more seasoned buyers; and Rene is determined to win the contest for best locker(c)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Barry Weiss</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan and Laura Dotson</actor>
+      <actor>Dave Hester</actor>
+      <actor>Jarrod Schulz</actor>
+    </credits>
+    <category lang="en">Other</category>
+    <category lang="en">Serial</category>
+    <icon src="https://i.yo.tv/images/17/tt4539014/s/74cfa482c408aafa5d52f535765926b3.jpg" />
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180405233000 +0000" stop="20180406000000 +0000" channel="HGTV">
+    <title lang="en">Storage Wars</title>
+    <desc lang="en">Storage unit auctions are the newest and biggest untapped source for hidden treasure! Storage Wars is a special kind of treasure hunt, where, if you're lucky, bidding can make you rich. Bidders range from twenty-something's out for fun and adventure, to husband and wife teams looking to make fast and large cash. And everybody is prepared to create quite the drama in the process(c)</desc>
+    <category lang="en">Reality</category>
+    <star-rating>
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+</tv>
