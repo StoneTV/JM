@@ -169,7 +169,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29447.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29889.ts
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/34901/s34901_h5_aa.png", STARZ
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25489.ts
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16834/s16834_h5_aa.png", FYI NETWORK
+#EXTINF:-1 tvg-id="20378" tvg-name="FYI US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16834/s16834_h5_aa.png", FYI NETWORK
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/20878.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18633/s18633_h5_aa.png", ION
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
