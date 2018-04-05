@@ -3,6 +3,8 @@
 https://tvjlocal.akamaized.net/univ_video_tvj/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CaribVision 2
 https://uvodscp-lh.akamaihd.net/i/rjrCvtv_1@79763/index_240_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CVM
+http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eJ2q8dvSu-BcBvXMC5qAGQhjXDsSfC1mCYp6bDmf12Cwbf-bQq1j6z-svIvrC0niWA==/a_n1eeiwgzyg0g.m3u8
 
 #EXTINF:-1,------ kOREA HDTV ------
 #EXTINF:-1 tvg-logo="", JeiENGLISH
@@ -29,6 +31,20 @@ http://123.108.164.71/etv2/phd847/playlist.m3u8
 rtmp://smart.igtb.co.kr/live/stream.sdp
 
 #EXTINF:-1,------ USA OPTIMUM ------
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", BBC News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", Escape
+http://209.6.202.89:9981/stream/channelid/461345250?ticket=0666F993E7CB51DB26F9C3730A696FAACEDCEA4D
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", History
 http://217.199.133.226:4936/udp/235.255.1.45:5334
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png", ID
