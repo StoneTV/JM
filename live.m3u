@@ -45,7 +45,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", Escape
 http://209.6.202.89:9981/stream/channelid/461345250?ticket=0666F993E7CB51DB26F9C3730A696FAACEDCEA4D
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", History
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", History
 http://217.199.133.226:4936/udp/235.255.1.45:5334
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png", ID
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
