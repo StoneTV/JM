@@ -63,7 +63,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14144.ts
 #EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14179.ts
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png", Tru TV
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png", Tru TV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18368.ts
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14902/s14902_h5_aa.png", HGTV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14169.ts
