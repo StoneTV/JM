@@ -69,8 +69,8 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18368.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14169.ts
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10918/s10918_h5_aa.png", Lifetime
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29270.ts
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png", Cartoon Network
-http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14103.ts
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png", Cartoo Network
+http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14103.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14321/s14321_h5_aa.png", FX
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14172.ts
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/56905/s56905_h5_aa.png", Discovery Channel
