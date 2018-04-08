@@ -87,7 +87,7 @@ http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19772.ts
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19270.ts
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16361/s16361_h5_aa.png", MTV2
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/27005.ts
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10986/s10986_h5_aa.png", MTV
+#EXTINF:7200 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10986/s10986_h5_aa.png", MTV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14096.ts
 #EXTINF:-1 tvg-id="TVLand tvg-name="TVLand" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16123/s16123_h5_aa.png", TV Land
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19461.ts
