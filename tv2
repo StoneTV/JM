@@ -1,0 +1,206 @@
+#EXTM3U url-tvg="http://iptv-epg.com/5594-jjbpie.xml.gz"
+#EXTINF:-1 tvg-logo="http://api.ning.com/files/yP2ydRBetiQfsPmh75iJJJMtF3rELvgn5OgkbeIhtj4u-8hmKEJBKc5Q5U4u03U*1F*ajTNp2CoMtUGtIOkFU1VvR3JtdwmB/tvj.gif", TVJ
+https://tvjlocal.akamaized.net/univ_video_tvj/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CaribVision 2
+https://uvodscp-lh.akamaihd.net/i/rjrCvtv_1@79763/index_240_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/49411/s49411_h5_aa.png", CVM
+http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eJ2q8dvSu-BcBvXMC5qAGQhjXDsSfC1mCYp6bDmf12Cwbf-bQq1j6z-svIvrC0niWA==/a_n1eeiwgzyg0g.m3u8
+
+#EXTINF:-1,------ kOREA HDTV ------
+#EXTINF:-1 tvg-logo="", JeiENGLISH
+http://edge2.everyon.tv/etv2/pld15/playlist.m3u8
+#EXTINF:-1 tvg-logo="", EBS1
+http://110.10.122.42:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8
+#EXTINF:-1 tvg-logo="", EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="", EBSe
+rtmp://ebsonair.ebs.co.kr:1935/plus3familypc playpath=familypc1m
+#EXTINF:-1 tvg-logo="", EBSu
+rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+#EXTINF:-1 tvg-logo="", KBS Life
+rtmp://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream
+#EXTINF:-1 tvg-logo="", KBS Kids
+rtmp://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream
+#EXTINF:-1 tvg-logo="", KBS Drama
+rtmp://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream
+#EXTINF:-1 tvg-logo="", KBS W
+rtmp://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream
+#EXTINF:-1 tvg-logo="", KBS2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SBS1
+rtmp://smart.igtb.co.kr/live/stream.sdp
+
+#EXTINF:-1,------ USA OPTIMUM ------
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", PBS Kids
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", BBC News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", Escape
+http://209.6.202.89:9981/stream/channelid/461345250?ticket=0666F993E7CB51DB26F9C3730A696FAACEDCEA4D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", History
+http://217.199.133.226:4936/udp/235.255.1.45:5334
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png", ID
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EmwmHmTF-JPD1Mn0lpZjCy57UHMCecUHYQrge4xtiNmgHH4xcg", NFL NETWORK
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14767/s14767_h5_aa.png", TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/35513/s35513_h5_aa.png", TVOne
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25258.ts
+#EXTINF:-1 tvg-id="Travel" tvg-name="Travel" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11180/s11180_h5_aa.png", Travel Channel
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18500.ts
+#EXTINF:-1 tvg-id="ION" tvg-name="ION" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18633/s18633_h5_aa.png", ION
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10021/s10021_h5_aa.png", AMC
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14144.ts
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14179.ts
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png", Tru TV
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18368.ts
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14902/s14902_h5_aa.png", HGTV
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14169.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10918/s10918_h5_aa.png", Lifetime
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29270.ts
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png", Cartoon Network
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14103.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14321/s14321_h5_aa.png", FX
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14172.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/56905/s56905_h5_aa.png", Discovery Channel
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14158.ts
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10051/s10051_h5_aa.png", BET
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14089.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/59186/s59186_h5_aa.png", Paramount
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14166.ts
+#EXTINF:-1 tvg-id="AE" tvg-name="AE" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10035/s10035_h5_aa.png", A&E
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25294.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11158/s11158_h5_aa.png", TLC
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19772.ts
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11207/s11207_h5_aa.png", USA Network
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19270.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16361/s16361_h5_aa.png", MTV2
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/27005.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10986/s10986_h5_aa.png", MTV1
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14096.ts
+#EXTINF:-1 tvg-id="TVLand tvg-name="TVLand" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16123/s16123_h5_aa.png", TV Land
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19461.ts
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FoodNetwork" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12574/s12574_h5_aa.png", Food Network
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14174.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", History
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14159.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/58623/s58623_h5_aa.png", SyFy
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14164.ts
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="ComedyCentral" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10149/s10149_h5_aa.png", Comedy Central
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14140.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/24959/s24959_h5_aa.png", NatGeo
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19530.ts
+#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16616/s16616_h5_aa.png", Science Channel
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19262.ts
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16615/s16615_h5_aa.png", Investigation Discovery
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14167.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/19211/s19211_h5_aa.png", Nick Jr.
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14100.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/90401/s90401_h5_aa.png",Heroes & Icons
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29890.ts
+#EXTINF:-1 tvg-id="GSN" tvg-name="GSN" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14909/s14909_h5_aa.png", GSN
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19335.ts
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11221/s11221_h5_aa.png", Hallmark Channel
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14064.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/47540/s47540_h5_aa.png", Universal Kids
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19590.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30420/s30420_h5_aa.png", NickToons
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14097.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30420/s30420_h5_aa.png", Nick HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14098.ts
+#EXTINF:-1 tvg-id="Oxygen" tvg-name="Oxygen" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/21484/s21484_h5_aa.png", Oxygen
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19585.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/61469/s61469_h5_aa.png", Crime & Investigation
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14161.ts
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/17927/s17927_h5_aa.png", FXX
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14171.ts
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10142/s10142_h5_aa.png", CNN
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14141.ts
+#EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16374/s16374_h5_aa.png", FOX NEWS
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14125.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11115/s11115_h5_aa.png", SHOWTIME HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14127.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/66804/s66804_h5_aa.png", NATGEO WILD HD 
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19555.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/21883/s21883_h5_aa.png", BOOMERANG
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/20174.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", HISTORY 2
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19338.ts
+#EXTINF:-1 tvg-logo="",HORROR CHANNEL
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14131.ts
+#EXTINF:-1 tvg-logo="",NICK JR.TOO
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14099.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11867/s11867_h5_aa.png", TBS
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14134.ts
+#EXTINF:-1 tvg-id="MoreMax" tvg-name="MoreMax" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10121/s10121_h5_aa.png", CINEMAXX MORE MAXX
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/16492.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16617/s16617_h5_aa.png", DESTINATION AMERICA
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/16491.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10093/s10093_h5_aa.png", FREEFORM HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19264.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16585/s16585_h5_aa.png", HBO FAMILY HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19272.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/61522/s61522_h5_aa.png", HALLMARK MOVIES & MYSTERIES HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19326.ts
+#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18544/s18544_h5_aa.png", DIY NETWORK HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19327.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/30156/s30156_h5_aa.png", COOKING CHANNEL HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19336.ts
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10145/s10145_h5_aa.png", HLN
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19552.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18480/s18480_h5_aa.png", LIFETIME MOVIES
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/19591.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18284/s18284_h5_aa.png", AMERICAN HEROES CHANNEL
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22430.ts
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10098/s10098_h5_aa.png", CBS 2 HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23369.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10212/s10212_h5_aa.png", FOX 5 HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/24489.ts
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11705/s11705_h5_aa.png", NBC 4 HD
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29860.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/19635/s19635_h5_aa.png", STARZ KIDS & FAMILY
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25255.ts
+#EXTINF:-1 tvg-id="WGNA" tvg-name="WGNA" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/91097/s91097_h5_aa.png", WGN AMERICA
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/27663.ts
+#EXTINF:-1 tvg-id="WE" tvg-name="WE" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16409/s16409_h5_aa.png", WE TV
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22431.ts
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16300/s16300_h5_aa.png", MSNBC
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23328.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16618/s16618_h5_aa.png", DISCOVERY FAMILY
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23337.ts
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11779/s11779_h5_aa.png", CW
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29447.ts
+#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/70248/s70248_h5_aa.png", ANTENNA TV
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29889.ts
+#EXTINF:-1 tvg-id="Starz" tvg-name="Starz" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/34901/s34901_h5_aa.png", STARZ
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25489.ts
+#EXTINF:-1 tvg-id="20378" tvg-name="FYI US" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/16834/s16834_h5_aa.png", FYI NETWORK
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/20878.ts
+#EXTINF:-1 tvg-logo="", Weather Nation
+http://klive-a.akamaihd.net/dc-0/m/pa-live-publish5/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/QQAuvHb0DN9ChxKuPfB5Fg/master.m3u8
+
+#EXTINF:-1,------ 24/7 ON DEMAND ------
+http://examplethis.ts
+#EXTINF:-1 tvg-logo="", Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 tvg-logo="", Eric Andre
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="", Mr.Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-logo="",Criminal Minds 
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22423.ts
+#EXTINF:-1 tvg-logo="",Peppa Pig
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29943.ts
+#EXTINF:-1 tvg-logo="",American Dad
+plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29963.ts
