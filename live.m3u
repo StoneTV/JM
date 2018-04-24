@@ -53,27 +53,27 @@ https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14767/s14767_h5_aa.png", TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-#EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/35513/s35513_h5_aa.png", TVOne
+#EXTINF:-1 tvg-id="ION" tvg-name="TVOne.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/35513/s35513_h5_aa.png", TVOne
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/25258.ts
-#EXTINF:-1 tvg-id="Travel" tvg-name="Travel" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11180/s11180_h5_aa.png", Travel Channel
+#EXTINF:-1 tvg-id="Travel" tvg-name="TravelChannel.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/11180/s11180_h5_aa.png", Travel Channel
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18500.ts
-#EXTINF:-1 tvg-id="ION" tvg-name="ION" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18633/s18633_h5_aa.png", ION
+#EXTINF:-1 tvg-id="ION" tvg-name="ION.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/18633/s18633_h5_aa.png", ION
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/26777.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10021/s10021_h5_aa.png", AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10021/s10021_h5_aa.png", AMC
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14144.ts
-#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10057/s10057_h5_aa.png",Bravo
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14179.ts
-#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png", Tru TV
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10153/s10153_h5_aa.png", Tru TV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/18368.ts
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14902/s14902_h5_aa.png", HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14902/s14902_h5_aa.png", HGTV
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14169.ts
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10918/s10918_h5_aa.png", Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LifetimeNetwork.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10918/s10918_h5_aa.png", Lifetime
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29270.ts
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CartoonNetwork.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png", Cartoon Network
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14103.ts
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14321/s14321_h5_aa.png", FX
+#EXTINF:-1 tvg-id="FX" tvg-name="FX.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14321/s14321_h5_aa.png", FX
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14172.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/56905/s56905_h5_aa.png", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DiscoveryChannel.us" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/56905/s56905_h5_aa.png", Discovery Channel
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14158.ts
 #EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10051/s10051_h5_aa.png", BET
 http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14089.ts
