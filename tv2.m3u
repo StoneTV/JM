@@ -30,19 +30,15 @@ http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1 tvg-logo="", SBS1
 rtmp://smart.igtb.co.kr/live/stream.sdp
 
-#EXTINF:-1,------- FRENCH --------
-#EXTINF:-1 tvg-logo="", Disney FR
-http://66.70.182.22:25461/live/jq3JzSYYC/tcC05A72kk/29403.m3u8
+#EXTINF:-1,------ FRENCH ------
+#EXTINF:-1 tvg-logo="", Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://66.70.182.22:25461/live/jq3JzSYYC/tcC05A72kk/29403.m3u8
 #EXTINF:-1 tvg-logo="", Gulli
-http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23810.m3u8
-#EXTINF:-1 tvg-logo="", Gulli 2
-http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23810.ts
-#EXTINF:-1 tvg-logo="", CartoonNetwork FR
-http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23850.ts
-#EXTINF:-1 tvg-logo="", Nick JR. FR
-http://198.255.21.106:25461/live/jq3JzSYYC/tcC05A72kk/23782.m3u8
-#EXTINF:-1 tvg-logo="", Nick JR. FR 2
-http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23782.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23810.ts
+#EXTINF:-1 tvg-logo="", CartoonNetwork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23850.ts
+#EXTINF:-1 tvg-logo="", Nick JR.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/23782.m3u8
 
 #EXTINF:-1,------ USA OPTIMUM ------
 #EXTINF:-1 tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14771/s14771_h5_aa.png", CBSN
