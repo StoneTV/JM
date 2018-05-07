@@ -80,7 +80,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.ete
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/10918/s10918_h5_aa.png", Lifetime
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29270.ts
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/12131/s12131_h5_aa.png", Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.255.50.2:25461/live/jq3JzSYYC/tcC05A72kk/14103.m3u8?token=TRZZA0tfFF4UAwQHWwcNBQ9XVVoCCwEDUwNVDFdVAgJQVwQACg8GBgdDHhFKR0tWWF45UFUQDAMCAwALSBMWEFNGbgtcFQxGAlYBCxsfG0dQXgMbCwIaEEZbVBpeE1FTDwYFQBQVUxxCBEBdWF9mV1xFD1pUEAxcQ15cFEZeDTxSUVwDVlMUXhRREB8bWkpDGwlEdkFGX19DXxB3Cl0KDVMWHUBaXkIWVxVXEQMRCgYNAUQVE1FZR1hGQkFGC0E2ZRYdQF1PQgFYEltcVxEDEVQAEwETHhRbRW1CXRdFEQZXWVQQGg0UVBRNEF5YS2ZQVl0IXFJGX11YQRICRgRBTxRZXgxRQ1kWaRFbVxsJGwQMC1QbTA==
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/14321/s14321_h5_aa.png", FX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/14172.ts
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://tmsimg.plex.tv/h5/NowShowing/56905/s56905_h5_aa.png", Discovery Channel
