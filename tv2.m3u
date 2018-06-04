@@ -211,12 +211,11 @@ http://examplethis.ts
 #EXTINF:-1 tvg-logo="", Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 #EXTINF:-1 tvg-logo="", Eric Andre
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+http://127.0.0.1:54753/6218/08/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Mr.Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:-1 tvg-logo="",Criminal Minds 
 plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/22423.ts
 #EXTINF:-1 tvg-logo="",Peppa Pig
-plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29943.ts
-#EXTINF:-1 tvg-logo="",American Dad
+http://127.0.0.1:54753/6218/08/playlist.m3u8?is_manifest=1&encryption_method=NONE&csm_content_type=video#EXTINF:-1 tvg-logo="",American Dad
 plugin://plugin.video.famTester/?streamtype=TSDOWNLOADER&amp;url=http://live.eternaltv.net:25461/live/jq3JzSYYC/tcC05A72kk/29963.ts
