@@ -13,6 +13,42 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
 #EXTINF:-1, EBSi
 http://media.tbc.co.kr:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1, Unknown
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, TVChosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, G1SBS
+rtmp://smart.igtb.co.kr/live/stream.sup
+#EXTINF:-1, Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8
+#EXTINF:-1, K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, KTV
+x
+#EXTINF:-1, MBN
+http://222.232.40.2:9981/stream/channelid/925760088
+#EXTINF:-1, JTBC
+x
+#EXTINF:-1, Channel A
+x
+#EXTINF:-1, Yonhap News
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
+#EXTINF:-1, xx
+x
 //HD STREAMS//
 #EXTINF:-1,SBS Plus
 http://222.232.40.2:9981/stream/channelid/390158002
