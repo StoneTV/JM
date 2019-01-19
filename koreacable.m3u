@@ -33,8 +33,8 @@ x
 x
 #EXTINF:-1, Yonhap News
 x
-#EXTINF:-1, test
-http://we.media.everyon.tv/chgrp007a/live.m3u8
+#EXTINF:-1, Nick
+http://222.232.40.2:9981/stream/channel/ff28c78b2ae14c1bc1f803db4a744c53?profile=webtv-h264-aac-matroska
 #EXTINF:-1, xx
 x
 #EXTINF:-1, xx
