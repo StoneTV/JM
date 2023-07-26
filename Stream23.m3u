@@ -116,7 +116,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_h
 EXTINF:-1 tvg-logo="", BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
-EXTINF:-1 tvg-logo="", TVJ
+EXTINF:-1 tvg-logo="https://multix-s3a.akamaized.net//univ_delivery//rjr_storage//storage//56cb0bd793ca579bae219dfb//238816835795//tvj_large.png", TVJ
 https://rjr-tvj-local.akamaized.net/hls/live/2035073/RJR_TVJ_LOCAL/2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="",  Weather Nation
