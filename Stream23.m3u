@@ -102,5 +102,5 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 #EXTINF:-1 tvg-logo="", CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 tvg-logo="", CBeebies
+#EXTINF:-1 tvg-logo="https://agit.ai/wekeyfisrt/live/src/branch/main/tv/CBeebies.png", CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
