@@ -12,6 +12,9 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-logo="", News 12
 https://lnc-news12.tubi.video/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Weather Ntion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+
 #EXTINF:-1 tvg-logo="", ABC News
 https://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -104,3 +107,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mo
 
 #EXTINF:-1 tvg-logo="https://agit.ai/wekeyfisrt/live/src/branch/main/tv/CBeebies.png", CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Jamaica
+https://rjr-tvj-local.akamaized.net/hls/live/2035073/RJR_TVJ_LOCAL/2/streamPlaylist.m3u8
