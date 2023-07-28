@@ -27,6 +27,18 @@ https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_35
 #EXTINF:-1 tvg-logo="", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",  Nickelodeon HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/98179
+
+#EXTINF:-1 tvg-logo="",  Nick Jr. HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/68566
+
+#EXTINF:-1 tvg-logo="",  Boomerang HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/72693
+
+#EXTINF:-1 tvg-logo="",  Dave HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/68506
+
 #EXTINF:-1 tvg-logo="",  CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -64,7 +76,7 @@ https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64275805efc65caa7e9514d6/variant.m3u8?url=b9fb9d32eca791c9c1d9df2db256e2f6-a72eab0cfee78e78638ff2410abc8e4be8f3cd78fa85161b06bb096dc902782599229275d1c47e64f365e9a3521689bbf83d5c923607677b9b6d315afdf3523df5817d1b8421a708b62310bce278a45157e48e7267c9a3c953a34aa34482ee62489451d97c8c011a3cacd23ca103b5c2b3639d481698c8d70606be5fcbbba0ac353310b70d9ea2a2d088d13ad25a7f39effe44cb2ba2291fa32d17d3f0d994723bbf341037d0144642ecc6eee84e210d3dbf92e4f52c31145ba7f554172ae78c6f5161674a6824d3254d096561896002&x-plex-token=-uRcHGT4LFe9qb5s8NbK&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1690261079
 
 #EXTINF:-1 tvg-logo="",  Forensic Files
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4d/variant.m3u8?url=bcb0307b9750d357ee28f03980b68f74-e2ef9dabbeb52871946ed873519dc4f7c10164377388dab715e4812a8d12b023bc38bd168af8fd4945d24847032e1e8657bdc40783651b4bd9157f3f52171a41cf26c965accac8f3fcdb48c1f1b54ee95ddae63fe86e41f668ae6cdb1551579736cfd4b2e979c39f5dab26b9ecb1b5cda823a007503c89897fa9aaae02c62016106a4b4dbbd736d25233d2d6f6ea245f13f0e3976c1fe122c1b64b6ab0585822&x-plex-token=-uRcHGT4LFe9qb5s8NbK&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1690261619
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",  Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
@@ -77,6 +89,15 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
 #EXTINF:-1 tvg-logo="",  Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+
+#EXTINF:-1 tvg-logo="",  Unsolved Mysteries
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg",  Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-logo="",  AdultSwim
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="",  Travle & Leisure
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
