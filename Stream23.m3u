@@ -12,7 +12,10 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-logo="", News 12
 https://lnc-news12.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Weather Ntion
+#EXTINF:-1 tvg-logo="", Euronews
+https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Weather Nation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="", ABC News
@@ -78,6 +81,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64275805efc6
 #EXTINF:-1 tvg-logo="",  Forensic Files
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/SupermarketSweep/showimages/5c02d0b4657ff559ae6ceb953c365b56/2688x1076-Q75_5c02d0b4657ff559ae6ceb953c365b56.jpg",  Supermarket Sweep
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="",  Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
@@ -108,26 +114,29 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf
 #EXTINF:-1 tvg-logo="", Kitchen Nightmares
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1Y
 
+#EXTINF:-1 tvg-logo="" group-title="Eng;Sports", BeIN Sports Xtra
+https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", BBC 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="", BBC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", BBC 1
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-logo="", BBC 2
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-logo="", BBC 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png", BBC 3
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
 
 #EXTINF:-1 tvg-logo="", BBC 4
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-logo="", CBBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png", CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
 #EXTINF:-1 tvg-logo="https://agit.ai/wekeyfisrt/live/src/branch/main/tv/CBeebies.png", CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 tvg-logo="", TV Jamaica
-https://rjr-tvj-local.akamaized.net/hls/live/2035073/RJR_TVJ_LOCAL/2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Eng;Sports", Real Madrid TV
+https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
