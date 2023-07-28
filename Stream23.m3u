@@ -33,7 +33,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="",  Nickelodeon HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/98179
 
-#EXTINF:-1 tvg-logo="",  Nick Jr. HD
+#EXTINF: 1251 tvg-logo="",  Nick Jr. HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/68566
 
 #EXTINF:-1 tvg-logo="",  Boomerang HD
@@ -132,10 +132,10 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_
 #EXTINF:-1 tvg-logo="", BBC 4
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png", CBBC
+#EXTINF:-1 tvg-logo="", CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
-#EXTINF:-1 tvg-logo="https://agit.ai/wekeyfisrt/live/src/branch/main/tv/CBeebies.png", CBeebies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png", CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Eng;Sports", Real Madrid TV
