@@ -114,8 +114,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf
 #EXTINF:-1 tvg-logo="", Kitchen Nightmares
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1Y
 
-#EXTINF:-1 tvg-logo="" group-title="Eng;Sports", BeIN Sports Xtra
+#EXTINF:-1 tvg-logo="" group-title="Sports", BeIN Sports Xtra
 https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", BeIN Sports
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94445
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Fox Soccer
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94465
+
+#EXTINF:-1 tvg-logo="", Channel 4
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/108040
 
 #EXTINF:-1 tvg-logo="", BBC 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
