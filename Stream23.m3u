@@ -36,11 +36,11 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/98179
 #EXTINF:-1 tvg-logo="",  Nick Jr. HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/68566
 
-#EXT-X-TARGETDURATION:8 tvg-logo="",  Boomerang HD
+#EXTINF:-1 tvg-logo="",  Boomerang HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/72693
 
 #EXTINF:-1 tvg-logo="",  Dave HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/68506
+http://new-pro.tv:8080/99622282/etbVXafU6f/68506</
 
 #EXTINF:-1 tvg-logo="",  CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -80,6 +80,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64275805efc6
 
 #EXTINF:-1 tvg-logo="",  Forensic Files
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",  Haunt Tv
+https://haunttv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/SupermarketSweep/showimages/5c02d0b4657ff559ae6ceb953c365b56/2688x1076-Q75_5c02d0b4657ff559ae6ceb953c365b56.jpg",  Supermarket Sweep
 https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
@@ -149,3 +152,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_h
 
 #EXTINF:-1 tvg-logo="" group-title="Eng;Sports", Real Madrid TV
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
+
+<video controls loop>
+  <source src="http://new-pro.tv:8080/99622282/etbVXafU6f/68566" type="video/mp4">
+</video>
