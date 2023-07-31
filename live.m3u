@@ -1,3 +1,229 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",  Nickelodeon HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/98179
+#EXTINF:-1,|UK| BBC One 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/843
+#EXTINF:-1,|UK| BBC Two 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/844
+#EXTINF:-1,|UK| iTV 1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/845
+#EXTINF:-1,|UK| iTV 2 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/846
+#EXTINF:-1,|UK| iTV 3 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/847
+#EXTINF:-1,|UK| iTV 4 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/848
+#EXTINF:-1,|UK| iTV Be
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/849
+#EXTINF:-1,|UK| BBC 1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/850
+#EXTINF:-1,|UK| BBC 2 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/851
+#EXTINF:-1,|UK| BBC 3
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/852
+#EXTINF:-1,|UK| BBC 4
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/853
+#EXTINF:-1,|UK| Channel 4 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/854
+#EXTINF:-1,|UK| Channel 5 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/855
+#EXTINF:-1,|UK| BBC Entertainment
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/858
+#EXTINF:-1,|UK| More 4
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/860
+#EXTINF:-1,|UK| E4 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/863
+#EXTINF:-1,|UK| BBC News
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/868
+#EXTINF:-1,|UK| CNN News 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/872
+#EXTINF:-1,|UK| Bloomberg 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/874
+#EXTINF:-1,|UK| Al Jazeera UK
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/878
+#EXTINF:-1,|UK| FOX News HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/881
+#EXTINF:-1,|UK| Euronews HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/884
+#EXTINF:-1,|UK| CNN International
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/888
+#EXTINF:-1,|UK| Sky News HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/889
+#EXTINF:-1,|UK| CNBC News HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/890
+#EXTINF:-1,|UK| BBC World News HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/891
+#EXTINF:-1,|UK| Gold 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/892
+#EXTINF:-1,|UK| TCM
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/893
+#EXTINF:-1,|UK| E! 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/894
+#EXTINF:-1,|UK| RTE One 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/896
+#EXTINF:-1,|UK| RTE 2 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/897
+#EXTINF:-1,|UK| Alibi 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/898
+#EXTINF:-1,|UK| Dave 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/899
+#EXTINF:-1,|UK| Pick TV
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/902
+#EXTINF:-1,|UK| Food Network 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/906
+#EXTINF:-1,|UK| Colors
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/908
+#EXTINF:-1,|UK| Crime & Investigation
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/910
+#EXTINF:-1,|UK| Horse and Country 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/913
+#EXTINF:-1,|UK| Discovery Channel 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/917
+#EXTINF:-1,|UK| Discovery History
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/922
+#EXTINF:-1,|UK| Discovery Science
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/925
+#EXTINF:-1,|UK| Discovery Turbo
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/927
+#EXTINF:-1,|UK| Investigation Discovery 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/929
+#EXTINF:-1,|UK| Discovery Shed HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/932
+#EXTINF:-1,|UK| National Geographic Channel 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/934
+#EXTINF:-1,|UK| Nat Geo Wild 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/939
+#EXTINF:-1,|UK| History Channel 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/941
+#EXTINF:-1,|UK| History Channel 2 HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/942
+#EXTINF:-1,|UK| Animal Planet 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/943
+#EXTINF:-1,|UK| H2 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/952
+#EXTINF:-1,|UK| Travel Channel
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/953
+#EXTINF:-1,|UK| Eden 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/954
+#EXTINF:-1,|UK| 5USA HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/955
+#EXTINF:-1,|UK| Really HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/956
+#EXTINF:-1,|UK| MTV Base HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/957
+#EXTINF:-1,|UK| MTV 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/958
+#EXTINF:-1,|UK| MTV Music
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/959
+#EXTINF:-1,|UK| Club MTV
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/961
+#EXTINF:-1,|UK| MTV Hits
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/963
+#EXTINF:-1,|UK| MTV Rocks
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/965
+#EXTINF:-1,|UK| VH1 Classic
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/969
+#EXTINF:-1,|UK| Disney XD HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/971
+#EXTINF:-1,|UK| Boomerang HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/973
+#EXTINF:-1,|UK| Comedy Central 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/975
+#EXTINF:-1,|UK| Disney Channel
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/977
+#EXTINF:-1,|UK| Disney Junior 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/981
+#EXTINF:-1,|UK| CBeebies HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/984
+#EXTINF:-1,|UK| Sky Cinema Disney HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/987
+#EXTINF:-1,|UK| Cartoon Network 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/990
+#EXTINF:-1,|UK| Nickelodeon
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/993
+#EXTINF:-1,|UK| Nick Jr
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/994
+#EXTINF:-1,|UK| NickToons
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/995
+#EXTINF:-1,|UK| Baby TV
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/996
+#EXTINF:-1,|UK| CBS Reality HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/997
+#EXTINF:-1,|UK| CBS Drama HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/998
+#EXTINF:-1,|UK| Sky Sport News 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13891
+#EXTINF:-1,|UK| Sky Sports Action 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13892
+#EXTINF:-1,|UK| Sky Sports Football 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13893
+#EXTINF:-1,|UK| Sky Sports Golf 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13894
+#EXTINF:-1,|UK| Sky Sports Cricket 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13895
+#EXTINF:-1,|UK| Sky Sports F1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13896
+#EXTINF:-1,|UK| Sky Sports Arena 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13897
+#EXTINF:-1,|UK| Sky Sports Mix 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13898
+#EXTINF:-1,|UK| Sky Sports Main Event 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13899
+#EXTINF:-1,|UK| Sky Sports Premier League 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13900
+#EXTINF:-1,|UK| BT Sport ESPN 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13901
+#EXTINF:-1,|UK| BT Sport 1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13902
+#EXTINF:-1,|UK| BT Sport 2 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13903
+#EXTINF:-1,|UK| BT Sport 3 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13904
+#EXTINF:-1,|UK| At The Races
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13911
+#EXTINF:-1,|UK| Eurosport 1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13912
+#EXTINF:-1,|UK| Liverpool TV 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13913
+#EXTINF:-1,|UK| Box Nation 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13914
+#EXTINF:-1,|UK| Premier Sports 1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13915
+#EXTINF:-1,|UK| Eir Sports 1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13916
+#EXTINF:-1,|UK| Racing UK 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13917
+#EXTINF:-1,|UK| MUTV
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13918
+#EXTINF:-1,|UK| Horror Channel
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13889
+#EXTINF:-1,|UK| Sky One 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/999
+#EXTINF:-1,|UK| Sky Arts 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1000
+#EXTINF:-1,|UK| Sky Atlantic 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1001
+#EXTINF:-1,|UK| Sky Cinema Drama & Romance 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1003
+#EXTINF:-1,|UK| Sky Cinema Action 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1006
+#EXTINF:-1,|UK| Sky Cinema Comedy 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1011
+#EXTINF:-1,|UK| Sky Cinema Family 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1017
+#EXTINF:-1,|UK| Sky Cinema Select 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1019
+#EXTINF:-1,|UK| Sky Cinema Premiere 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1022
+#EXTINF:-1,|UK| Sky Cinema Sci-Fi & Horror 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1024
+#EXTINF:-1,|UK| Sky Cinema Greats 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1026
+#EXTINF:-1,|UK| Sony Movies 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1029
+#EXTINF:-1,|UK| Sony Movies +1 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1031
+#EXTINF:-1,|UK| SyFy 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1033
+#EXTINF:-1,|UK| Film 4 4K+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/1034
+#EXTINF:-1,|UK| Universal Channel HD+
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/13888
