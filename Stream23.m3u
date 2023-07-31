@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="", NBC 4
 http://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
 
+#EXTINF:-1 tvg-logo="", NBC
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/843
+
 #EXTINF:-1 tvg-logo="", CBS 2
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
