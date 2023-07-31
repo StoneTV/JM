@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1,UK: DISNEY XD HD
-http://dk.tgt6373.online:8080/kt99/kt40332/135282
-#EXTINF:-1,UK: CARTOON NETWORK HD
-http://dk.tgt6373.online:8080/kt99/kt40332/135283
-#EXTINF:-1,UK: NICK JUNIOR TOO HD
-http://dk.tgt6373.online:8080/kt99/kt40332/135284
-#EXTINF:-1,UK: NICKTOONS HD
-http://dk.tgt6373.online:8080/kt99/kt40332/135285
+#EXTINF:-1 tvg-logo="",  Nickelodeon HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/98179
