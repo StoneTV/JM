@@ -12,9 +12,6 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-logo="", News 12
 https://lnc-news12.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Euronews
-https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="", Weather Nation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 
@@ -126,7 +123,208 @@ http://medotv.nl:8000/ataa/caBeFNgbFaZN/94445
 #EXTINF:-1 tvg-logo="" group-title="Sports", Fox Soccer
 http://medotv.nl:8000/ataa/caBeFNgbFaZN/94465
 
-#EXTINF:-1 tvg-logo="", Channel 4
+#EXTINF:-1,UK: BBC 1 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135174
+#EXTINF:-1,UK: BBC 2 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135175
+#EXTINF:-1,UK: BBC 3 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135176
+#EXTINF:-1,UK: BBC 4 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135177
+#EXTINF:-1,UK: BBC NEW HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135178
+#EXTINF:-1,UK: BBC ALBA
+http://dk.tgt6373.online:8080/kt99/kt40332/135179
+#EXTINF:-1,UK: 4 SEVEN HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135180
+#EXTINF:-1,UK: AT THE RACES HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135181
+#EXTINF:-1,UK: ITV 1 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135189
+#EXTINF:-1,UK: ITV 2 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135190
+#EXTINF:-1,UK: ITV 3 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135191
+#EXTINF:-1,UK: ITV 4 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135192
+#EXTINF:-1,UK: UFC FIGHT PASS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135193
+#EXTINF:-1,UK: CHALLENGE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135194
+#EXTINF:-1,UK: CBS JUSTICE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135195
+#EXTINF:-1,UK: CBS REALITY HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135196
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135197
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135198
+#EXTINF:-1,UK: CHANNEL 5 USA HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135199
+#EXTINF:-1,UK: SKY MOVIES ACTION & ADVENTURE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135200
+#EXTINF:-1,UK: SKY MOVIES CRIME & THRILLER HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135201
+#EXTINF:-1,UK: SKY MOVIES DRAMA HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135202
+#EXTINF:-1,UK: SKY LIVING HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135203
+#EXTINF:-1,UK: SKY MOVIES PREMIERE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135204
+#EXTINF:-1,UK: SKY MOVIES SELECT HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135205
+#EXTINF:-1,UK: SKY MOVIES DISNEY HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135206
+#EXTINF:-1,UK: SKY MOVIES SYFI-HORROR HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135207
+#EXTINF:-1,UK: SKY MOVIES COMEDY HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135208
+#EXTINF:-1,UK: COMEDY CENTRAL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135209
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135210
+#EXTINF:-1,UK: CRIME & INVESTIGATION HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135211
+#EXTINF:-1,UK: CBS DRAMA HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135212
+#EXTINF:-1,UK: DISCOVERY SCIENCE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135213
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135214
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135215
+#EXTINF:-1,UK: EURONEWS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135216
+#EXTINF:-1,UK: BABY TV HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135217
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135218
+#EXTINF:-1,UK: DRAMA HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135219
+#EXTINF:-1,UK: DMAX HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135220
+#EXTINF:-1,UK: DISCOVERY TURBO HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135221
+#EXTINF:-1,UK: FOX SPORTS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135222
+#EXTINF:-1,UK: FOX HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135223
+#EXTINF:-1,UK: DISCOVERY HISTORY HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135224
+#EXTINF:-1,UK: DISCOVERY INVESTIGATION HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135225
+#EXTINF:-1,UK: HOME HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135226
+#EXTINF:-1,UK: HOME & HEALTH HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135227
+#EXTINF:-1,UK: MTV HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135228
+#EXTINF:-1,UK: MTV DANCE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135229
+#EXTINF:-1,UK: MTV ROCKS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135230
+#EXTINF:-1,UK: MTV CLASSIC HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135231
+#EXTINF:-1,UK: HORROR CHANNEL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135232
+#EXTINF:-1,UK: LFC TV HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135233
+#EXTINF:-1,UK: PREMIER SPORTS 1 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135235
+#EXTINF:-1,UK: DISCOVERY CHANNEL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135236
+#EXTINF:-1,UK: E! ENTERTAINMENT HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135237
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135238
+#EXTINF:-1,UK: NAT. GEO HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135239
+#EXTINF:-1,UK: BOXNATION HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135258
+#EXTINF:-1,UK: ALIBI HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135259
+#EXTINF:-1,UK: ANIMAL PLANET HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135260
+#EXTINF:-1,UK: DAVE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135261
+#EXTINF:-1,UK: E4 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135262
+#EXTINF:-1,UK: FILM 4 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135263
+#EXTINF:-1,UK: GOLD HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135264
+#EXTINF:-1,UK: RTE ONE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135265
+#EXTINF:-1,UK: RTE TWO HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135266
+#EXTINF:-1,UK: SETANTA SPORTS 1 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135267
+#EXTINF:-1,UK: SKY 2 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135268
+#EXTINF:-1,UK: SKY ARTS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135269
+#EXTINF:-1,UK: SKY ATLANTIC HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135270
+#EXTINF:-1,UK: SKY NEWS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135271
+#EXTINF:-1,UK: SKY ONE HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135272
+#EXTINF:-1,UK: SKY MUTV HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135273
+#EXTINF:-1,UK: EDEN HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135274
+#EXTINF:-1,UK: TRAVEL CHANNEL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135275
+#EXTINF:-1,UK: TRUE ENTERTAINMENT HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135276
+#EXTINF:-1,UK: UNIVERSAL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135277
+#EXTINF:-1,UK: VIVA HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135278
+#EXTINF:-1,UK: WATCH HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135279
+#EXTINF:-1,UK: YESTERDAY HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135280
+#EXTINF:-1,UK: CBEEBIES HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135281
+#EXTINF:-1,UK: DISNEY XD HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135282
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135283
+#EXTINF:-1,UK: NICK JUNIOR TOO HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135284
+#EXTINF:-1,UK: NICKTOONS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135285
+#EXTINF:-1,UK: UTV HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135286
+#EXTINF:-1,UK: TLC HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135287
+#EXTINF:-1,UK: FOX NEWS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135288
+#EXTINF:-1,UK: FOOD NETWORK HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135289
+#EXTINF:-1,UK: QUEST HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135290
+#EXTINF:-1,UK: QUEST RED HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135291
+#EXTINF:-1,UK: MOVIES4MEN HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135292
+#EXTINF:-1,UK: SYFY HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135293
+#EXTINF:-1,UK: TCM HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135294
+#EXTINF:-1,UK: HISTORY CHANNEL HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135295
+#EXTINF:-1,UK: BOX HITS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135296
+#EXTINF:-1,UK: TINY POP HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135300
+#EXTINF:-1,UK: PREMIER SPORTS 2 HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135301
+#EXTINF:-1,UK: FREE SPORTS HD
+http://dk.tgt6373.online:8080/kt99/kt40332/135302
+
+#EXTINF:-1 tvg-logo="", Channel 4 HD
 http://medotv.nl:8000/ataa/caBeFNgbFaZN/108040
 
 #EXTINF:-1 tvg-logo="", BBC 
@@ -153,6 +351,3 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_h
 #EXTINF:-1 tvg-logo="" group-title="Eng;Sports", Real Madrid TV
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 
-<video controls loop>
-  <source src="http://new-pro.tv:8080/99622282/etbVXafU6f/68566" type="video/mp4">
-</video>
