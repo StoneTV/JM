@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1, ***Local News***
+#EXTINF:-1 tvg-logo="https://tinyurl.com/images/home/url.svg" group-title="News", NBC 4
+http://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", CBS 2
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", ABC 7
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", News 12
+https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,|UK| BBC One 4K+
 http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/843
 #EXTINF:-1,|UK| BBC Two 4K+
