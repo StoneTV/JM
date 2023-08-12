@@ -235,7 +235,8 @@ http://uhd3.one:80/Spencer/1234567/164006
 http://uhd3.one:80/Spencer/1234567/459637
 #EXTINF:-1 tvg-id="" tvg-name="UK| THAT'S TV" tvg-logo="http://logo.protv.cc/picons/logos/UK/THAT'S.png" group-title="UK| ENTERTAINMENT",UK| THAT'S TV
 http://uhd3.one:80/Spencer/1234567/1013289
-#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK| YESTERDAY" tvg-logo="http://logo.protv.cc/picons/logos/UK/YESTERDAY.png" group-title="UK| ENTERTAINMENT",UK| Y
+#EXTINF:-1 tvg-id="" tvg-name="UK| CRIME INVESTIGATION +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/CRIME&INVESTIGATION.png" group-title="UK| DOCUMENTARY",UK| CRIME INVESTIGATION +1
+http://uhd3.one:80/Spencer/1234567/1014333
 #EXTINF:-1, BBC 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1, BBC 1
