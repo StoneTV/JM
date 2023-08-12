@@ -403,6 +403,20 @@ http://uhd3.one:80/Spencer/1234567/163611
 http://uhd3.one:80/Spencer/1234567/163607
 #EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| VIAPLAY SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="UK| SPORTS",UK| VIAPLAY SPORTS 2 FHD
 http://uhd3.one:80/Spencer/1234567/45251
+#EXTINF:-1 tvg-id="" tvg-name="PPV 28 -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 28 -
+http://uhd3.one:80/Spencer/1234567/1127303
+#EXTINF:-1 tvg-id="" tvg-name="PPV 29 -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 29 -
+http://uhd3.one:80/Spencer/1234567/1127305
+#EXTINF:-1 tvg-id="" tvg-name="PPV 30  -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 30  -
+http://uhd3.one:80/Spencer/1234567/1127306
+#EXTINF:-1 tvg-id="" tvg-name="PPV 31 -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 31 -
+http://uhd3.one:80/Spencer/1234567/1127307
+#EXTINF:-1 tvg-id="" tvg-name="PPV 32 -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 32 -
+http://uhd3.one:80/Spencer/1234567/1127308
+#EXTINF:-1 tvg-id="" tvg-name="PPV 33 -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 33 -
+http://uhd3.one:80/Spencer/1234567/1127309
+#EXTINF:-1 tvg-id="" tvg-name="PPV 34 -" tvg-logo="http://logo.protv.cc/picons/logos/USA/ppv.png" group-title="UK| PPV EVENTS",PPV 34 -
+http://uhd3.one:80/Spencer/1234567/1127310
 #EXTINF:-1, BBC 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1, BBC 1
