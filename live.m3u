@@ -113,6 +113,129 @@ http://uhd3.one:80/Spencer/1234567/396314
 http://uhd3.one:80/Spencer/1234567/396315
 #EXTINF:-1 tvg-id="" tvg-name="UK| DAVE & AVA HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAVE.png" group-title="UK| KIDS",UK| DAVE & AVA HD
 http://uhd3.one:80/Spencer/1234567/1206422
+#EXTINF:-1 tvg-id="" tvg-name="##### ENTERTAINMENT FHD #####" tvg-logo="" group-title="UK| ENTERTAINMENT",##### ENTERTAINMENT FHD #####
+http://uhd3.one:80/Spencer/1234567/230675
+#EXTINF:-1 tvg-id="" tvg-name="UK| DAYSTAR HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAYSTAR.png" group-title="UK| ENTERTAINMENT",UK| DAYSTAR HD
+http://uhd3.one:80/Spencer/1234567/111561
+#EXTINF:-1 tvg-id="" tvg-name="UK| DAYSTAR HEVC" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAYSTAR.png" group-title="UK| ENTERTAINMENT",UK| DAYSTAR HEVC
+http://uhd3.one:80/Spencer/1234567/111552
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK| EDEN FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/EDEN.png" group-title="UK| ENTERTAINMENT",UK| EDEN FHD
+http://uhd3.one:80/Spencer/1234567/30544
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK| GOLD FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/GOLD.png" group-title="UK| ENTERTAINMENT",UK| GOLD FHD
+http://uhd3.one:80/Spencer/1234567/30537
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK| DAVE FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAVE.png" group-title="UK| ENTERTAINMENT",UK| DAVE FHD
+http://uhd3.one:80/Spencer/1234567/30550
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="UK| E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/E_-ENTERTAINMENT.png" group-title="UK| ENTERTAINMENT",UK| E! ENTERTAINMENT HD
+http://uhd3.one:80/Spencer/1234567/45278
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK| MORE 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/MORE-4.png" group-title="UK| ENTERTAINMENT",UK| MORE 4 FHD
+http://uhd3.one:80/Spencer/1234567/30528
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK| QUEST FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/QUEST.png" group-title="UK| ENTERTAINMENT",UK| QUEST FHD
+http://uhd3.one:80/Spencer/1234567/45334
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK| UTV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/UTV.png" group-title="UK| ENTERTAINMENT",UK| UTV FHD
+http://uhd3.one:80/Spencer/1234567/230677
+#EXTINF:-1 tvg-id="uk.Syfy" tvg-name="UK| SYFY FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SYFY.png" group-title="UK| ENTERTAINMENT",UK| SYFY FHD
+http://uhd3.one:80/Spencer/1234567/30492
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK| SKY ARTS FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-ARTS.png" group-title="UK| ENTERTAINMENT",UK| SKY ARTS FHD
+http://uhd3.one:80/Spencer/1234567/30519
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK| SKY ATLANTIC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-ATLANTIC.png" group-title="UK| ENTERTAINMENT",UK| SKY ATLANTIC FHD
+http://uhd3.one:80/Spencer/1234567/30518
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK| SKY MAX FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Sky_Max.png" group-title="UK| ENTERTAINMENT",UK| SKY MAX FHD
+http://uhd3.one:80/Spencer/1234567/741954
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="UK| SKY SHOWCASE FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SHOWCASE.png" group-title="UK| ENTERTAINMENT",UK| SKY SHOWCASE FHD
+http://uhd3.one:80/Spencer/1234567/741952
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK| SKY WITNESS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-WITNESS.png" group-title="UK| ENTERTAINMENT",UK| SKY WITNESS HD
+http://uhd3.one:80/Spencer/1234567/83704
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK| TLC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TLC.png" group-title="UK| ENTERTAINMENT",UK| TLC FHD
+http://uhd3.one:80/Spencer/1234567/30489
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK| STV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/STV.png" group-title="UK| ENTERTAINMENT",UK| STV FHD
+http://uhd3.one:80/Spencer/1234567/230678
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK| STV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/STV.png" group-title="UK| GENERAL",UK| STV FHD
+http://uhd3.one:80/Spencer/1234567/45323
+#EXTINF:-1 tvg-id="uk.Universal" tvg-name="UK| UNIVERSAL FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/UNIVERSAL.png" group-title="UK| ENTERTAINMENT",UK| UNIVERSAL FHD
+http://uhd3.one:80/Spencer/1234567/30488
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK| COMEDY CENTRAL" tvg-logo="http://logo.protv.cc/picons/logos/UK/COMEDY-CENTRAL.png" group-title="UK| ENTERTAINMENT",UK| COMEDY CENTRAL
+http://uhd3.one:80/Spencer/1234567/228568
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK| COMEDY CENTRAL FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/COMEDY-CENTRAL.png" group-title="UK| ENTERTAINMENT",UK| COMEDY CENTRAL FHD
+http://uhd3.one:80/Spencer/1234567/30552
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK| COMEDY CENT XTRA+1" tvg-logo="http://logo.protv.cc/picons/logos/UK/COMEDY-CENT-XTRA+1.png" group-title="UK| ENTERTAINMENT",UK| COMEDY CENT XTRA+1
+http://uhd3.one:80/Spencer/1234567/45285
+#EXTINF:-1 tvg-id="" tvg-name="##### ENTERTAINMENT SD #####" tvg-logo="" group-title="UK| ENTERTAINMENT",##### ENTERTAINMENT SD #####
+http://uhd3.one:80/Spencer/1234567/230676
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK| 5 STAR" tvg-logo="http://logo.protv.cc/picons/logos/UK/5-STAR.png" group-title="UK| ENTERTAINMENT",UK| 5 STAR
+http://uhd3.one:80/Spencer/1234567/45320
+#EXTINF:-1 tvg-id="uk.5STAR +1" tvg-name="UK| 5 STAR+1" tvg-logo="http://logo.protv.cc/picons/logos/UK/5-USA-+1.png" group-title="UK| ENTERTAINMENT",UK| 5 STAR+1
+http://uhd3.one:80/Spencer/1234567/79693
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK| 5 USA" tvg-logo="http://logo.protv.cc/picons/logos/UK/5-USA.png" group-title="UK| ENTERTAINMENT",UK| 5 USA
+http://uhd3.one:80/Spencer/1234567/45319
+#EXTINF:-1 tvg-id="uk.5 USA +1" tvg-name="UK| 5 USA +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/5-USA-+1.png" group-title="UK| ENTERTAINMENT",UK| 5 USA +1
+http://uhd3.one:80/Spencer/1234567/79694
+#EXTINF:-1 tvg-id="" tvg-name="UK| GEMS TV" tvg-logo="http://logo.protv.cc/picons/logos/UK/GEMS.png" group-title="UK| ENTERTAINMENT",UK| GEMS TV
+http://uhd3.one:80/Spencer/1234567/164049
+#EXTINF:-1 tvg-id="" tvg-name="UK| IDEAL EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/UK/IDEAL-EXTRA.png" group-title="UK| ENTERTAINMENT",UK| IDEAL EXTRA
+http://uhd3.one:80/Spencer/1234567/164027
+#EXTINF:-1 tvg-id="" tvg-name="UK| JML DIRECT" tvg-logo="http://logo.protv.cc/picons/logos/UK/JML-DIRECT.png" group-title="UK| ENTERTAINMENT",UK| JML DIRECT
+http://uhd3.one:80/Spencer/1234567/164052
+#EXTINF:-1 tvg-id="" tvg-name="UK| BEST DIRECT" tvg-logo="http://logo.protv.cc/picons/logos/UK/BEST-DIRECT.png" group-title="UK| ENTERTAINMENT",UK| BEST DIRECT
+http://uhd3.one:80/Spencer/1234567/164026
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="UK| BLAZE FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BLAZE.png" group-title="UK| ENTERTAINMENT",UK| BLAZE FHD
+http://uhd3.one:80/Spencer/1234567/30569
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK| CBS DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/UK/CBS-DRAMA.png" group-title="UK| ENTERTAINMENT",UK| CBS DRAMA
+http://uhd3.one:80/Spencer/1234567/45290
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="UK| LEGEND HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/LEGEND.png" group-title="UK| ENTERTAINMENT",UK| LEGEND HD
+http://uhd3.one:80/Spencer/1234567/45291
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK| CBS REALITY" tvg-logo="http://logo.protv.cc/picons/logos/UK/CBS-REALITY.png" group-title="UK| ENTERTAINMENT",UK| CBS REALITY
+http://uhd3.one:80/Spencer/1234567/45289
+#EXTINF:-1 tvg-id="uk.CBS Reality+1" tvg-name="UK| CBS REALITY +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/CBS-REALITY.png" group-title="UK| ENTERTAINMENT",UK| CBS REALITY +1
+http://uhd3.one:80/Spencer/1234567/45288
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK| CHALLENGE" tvg-logo="http://logo.protv.cc/picons/logos/UK/CHALLENGE.png" group-title="UK| ENTERTAINMENT",UK| CHALLENGE
+http://uhd3.one:80/Spencer/1234567/228565
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK| DAVE" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAVE.png" group-title="UK| ENTERTAINMENT",UK| DAVE
+http://uhd3.one:80/Spencer/1234567/79696
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="UK| DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/UK/DRAMA-1.png" group-title="UK| ENTERTAINMENT",UK| DRAMA
+http://uhd3.one:80/Spencer/1234567/164028
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK| E4" tvg-logo="http://logo.protv.cc/picons/logos/UK/E4-EXTRA.png" group-title="UK| GENERAL",UK| E4
+http://uhd3.one:80/Spencer/1234567/79732
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK| EDEN" tvg-logo="http://logo.protv.cc/picons/logos/UK/EDEN.png" group-title="UK| ENTERTAINMENT",UK| EDEN
+http://uhd3.one:80/Spencer/1234567/79730
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK| EDEN +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/EDEN.png" group-title="UK| ENTERTAINMENT",UK| EDEN +1
+http://uhd3.one:80/Spencer/1234567/164046
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK| FOX" tvg-logo="http://logo.protv.cc/picons/logos/UK/FOX.png" group-title="UK| ENTERTAINMENT",UK| FOX
+http://uhd3.one:80/Spencer/1234567/79734
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK| GOLD +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/GOLD.png" group-title="UK| ENTERTAINMENT",UK| GOLD +1
+http://uhd3.one:80/Spencer/1234567/164048
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK| MORE 4" tvg-logo="http://logo.protv.cc/picons/logos/UK/MORE-4.png" group-title="UK| ENTERTAINMENT",UK| MORE 4
+http://uhd3.one:80/Spencer/1234567/30527
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="UK| PBS AMERICA" tvg-logo="http://logo.protv.cc/picons/logos/UK/PBS-AMERICA.png" group-title="UK| ENTERTAINMENT",UK| PBS AMERICA
+http://uhd3.one:80/Spencer/1234567/164007
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK| PICK TV" tvg-logo="http://logo.protv.cc/picons/logos/UK/PICK.png" group-title="UK| ENTERTAINMENT",UK| PICK TV
+http://uhd3.one:80/Spencer/1234567/289274
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK| SKY MAX" tvg-logo="http://logo.protv.cc/picons/logos/UK/Sky_Max.png" group-title="UK| ENTERTAINMENT",UK| SKY MAX
+http://uhd3.one:80/Spencer/1234567/741955
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="UK| SKY SHOWCASE" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SHOWCASE.png" group-title="UK| ENTERTAINMENT",UK| SKY SHOWCASE
+http://uhd3.one:80/Spencer/1234567/741953
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="UK| SKY TWO" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-TWO.png" group-title="UK| ENTERTAINMENT",UK| SKY TWO
+http://uhd3.one:80/Spencer/1234567/45243
+#EXTINF:-1 tvg-id="" tvg-name="UK| CRAFT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/UK/CREATE-AND-CRAFT.png" group-title="UK| KIDS",UK| CRAFT EXTRA
+http://uhd3.one:80/Spencer/1234567/164041
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="UK| QVC UK." tvg-logo="http://logo.protv.cc/picons/logos/UK/QVC-UK..png" group-title="UK| ENTERTAINMENT",UK| QVC UK.
+http://uhd3.one:80/Spencer/1234567/45247
+#EXTINF:-1 tvg-id="uk.QVC Beauty" tvg-name="UK| QVC BEAUTY" tvg-logo="http://logo.protv.cc/picons/logos/UK/QVC-BEAUTY.png" group-title="UK| ENTERTAINMENT",UK| QVC BEAUTY
+http://uhd3.one:80/Spencer/1234567/45250
+#EXTINF:-1 tvg-id="uk.QVC Style" tvg-name="UK| QVC STYLE" tvg-logo="http://logo.protv.cc/picons/logos/UK/QVC-STYLE.jpg" group-title="UK| ENTERTAINMENT",UK| QVC STYLE
+http://uhd3.one:80/Spencer/1234567/45248
+#EXTINF:-1 tvg-id="uk.QVC Extra" tvg-name="UK| QVC EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/UK/QVC-EXTRA.png" group-title="UK| ENTERTAINMENT",UK| QVC EXTRA
+http://uhd3.one:80/Spencer/1234567/45249
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK| QUEST +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/QUEST.png" group-title="UK| ENTERTAINMENT",UK| QUEST +1
+http://uhd3.one:80/Spencer/1234567/164057
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="UK| QUEST RED +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/QUEST-RED.png" group-title="UK| ENTERTAINMENT",UK| QUEST RED +1
+http://uhd3.one:80/Spencer/1234567/164058
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK| REALLY" tvg-logo="http://logo.protv.cc/picons/logos/UK/REALLY.png" group-title="UK| ENTERTAINMENT",UK| REALLY
+http://uhd3.one:80/Spencer/1234567/164006
+#EXTINF:-1 tvg-id="" tvg-name="UK| SONY LIFE" tvg-logo="http://logo.protv.cc/picons/logos/UK/SONY-LIFE.png" group-title="UK| ENTERTAINMENT",UK| SONY LIFE
+http://uhd3.one:80/Spencer/1234567/459637
+#EXTINF:-1 tvg-id="" tvg-name="UK| THAT'S TV" tvg-logo="http://logo.protv.cc/picons/logos/UK/THAT'S.png" group-title="UK| ENTERTAINMENT",UK| THAT'S TV
+http://uhd3.one:80/Spencer/1234567/1013289
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK| YESTERDAY" tvg-logo="http://logo.protv.cc/picons/logos/UK/YESTERDAY.png" group-title="UK| ENTERTAINMENT",UK| Y
 #EXTINF:-1, BBC 
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1, BBC 1
