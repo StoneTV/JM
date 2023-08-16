@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1,USA | ABC 7 New York
+#EXTM3U
+#EXTINF:-1,USA | ABC 7 New York
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1321
 #EXTINF:-1,USA | AMC
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1326
@@ -188,10 +189,7 @@ http://uhd3.one:80/Spencer/1234567/79478
 http://uhd3.one:80/Spencer/1234567/83452
 #EXTINF:-1,UK| True Crime
 https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,UK| 
-#EXTINF:-1,UK| 
-#EXTINF:-1,UK| 
-#EXTINF:-1,UK| 
+
 
 
 
