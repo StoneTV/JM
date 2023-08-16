@@ -11,10 +11,10 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1333
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1334
 #EXTINF:-1,USA | Cartoon Network
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1335
-#EXTINF:-1,USA | CBS
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1336
 #EXTINF:-1,USA | CBS 2 New York
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1342
+#EXTINF:-1,USA | CBS 2 News
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1,USA | Cinemax
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/134
 #EXTINF:-1,USA | Comedy Central
@@ -93,7 +93,7 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1416
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1417
 #EXTINF:-1,USA | NBC 4 New York
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1424
-#EXTINF:-1,USA |News 12
+#EXTINF:-1,USA | News 12
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,USA | Nickelodeon
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1518
@@ -157,37 +157,37 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54774
 https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1,UK | BeIN Sports
 http://medotv.nl:8000/ataa/caBeFNgbFaZN/94445
-#EXTINF:-1,UK| BT SPORTS 3 HD
+#EXTINF:-1,UK | BT SPORTS 3 HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54831
-#EXTINF:-1,UK| COMEDY CENTRAL
+#EXTINF:-1,UK | COMEDY CENTRAL
 http://uhd3.one:80/Spencer/1234567/228568
-#EXTINF:-1,UK| CRIME INVESTIGATION
+#EXTINF:-1,UK | CRIME INVESTIGATION
 http://uhd3.one:80/Spencer/1234567/1014333
-#EXTINF:-1,UK| DAVE FHD
+#EXTINF:-1,UK | DAVE FHD
 http://uhd3.one:80/Spencer/1234567/30550
 #EXTINF:-1,UK | Drama HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54782
-#EXTINF:-1,UK| E4
+#EXTINF:-1,UK | E4
 http://uhd3.one:80/Spencer/1234567/79732
-#EXTINF:-1,UK| FOX
+#EXTINF:-1,UK | FOX
 http://uhd3.one:80/Spencer/1234567/79734
-#EXTINF:-1,UK| MORE 4
+#EXTINF:-1,UK | MORE 4
 http://uhd3.one:80/Spencer/1234567/30527
-#EXTINF:-1,UK| MORE 4 HD
+#EXTINF:-1,UK | MORE 4 HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54777
-#EXTINF:-1,UK| NICKELODEON HD
+#EXTINF:-1,UK | NICKELODEON HD
 http://uhd3.one:80/Spencer/1234567/228579
-#EXTINF:-1,UK| NICK JR HD
+#EXTINF:-1,UK | NICK JR HD
 http://uhd3.one:80/Spencer/1234567/1014235
-#EXTINF:-1,UK| NICK JUNIOR
+#EXTINF:-1,UK | NICK JUNIOR
 http://uhd3.one:80/Spencer/1234567/45260
-#EXTINF:-1,UK| SKY SHOWCASE
+#EXTINF:-1,UK | SKY SHOWCASE
 http://uhd3.one:80/Spencer/1234567/741953
-#EXTINF:-1,UK| SKY SPORTS FOOTBALL
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL
 http://uhd3.one:80/Spencer/1234567/79478
-#EXTINF:-1,UK| SKY SPORTS FOOTBALL HD
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL HD
 http://uhd3.one:80/Spencer/1234567/83452
-#EXTINF:-1,UK| True Crime
+#EXTINF:-1,UK | True Crime
 https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
 
 
