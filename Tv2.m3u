@@ -2,6 +2,8 @@
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1321
 #EXTINF:-1,USA | AMC
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1326
+#EXTINF:-1,USA | ABC 7
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1,USA | Boomerang
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1333
 #EXTINF:-1,USA | Bravo
@@ -78,12 +80,22 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1405
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1406
 #EXTINF:-1,USA | LMN
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1407
+#EXTINF:-1,USA | ION
+https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
+#EXTINF:-1,USA | ION +
+https://linear-433.frequency.stream/dist/vix/433/hls/master/playlist.m3u8
+#EXTINF:-1,USA | ION Mistery
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
 #EXTINF:-1,USA | Nat Geo
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1416
 #EXTINF:-1,USA | Nat Geo Wild
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1417
 #EXTINF:-1,USA | NBC 4 New York
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1424
+#EXTINF:-1,USA |News 12
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1,USA | Nickelodeon
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1518
 #EXTINF:-1,USA | Nick
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1434
 #EXTINF:-1,USA | Nick Jr
@@ -132,17 +144,54 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1494
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1518
 #EXTINF:-1,USA | LIFETIME MOVIE NETWORK
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/1521
+#EXTINF:-1,UK | CNN HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,UK | ITV 4 HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54773
+#EXTINF:-1,UK | BBC News
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1,UK | BBC ONE FHD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54774
-#EXTINF:-1,UK| MORE 4 HD
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54777
-#EXTINF:-1,UK | DRAMA HD
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54782
+#EXTINF:-1,UK | BeIN Sports Xtra
+https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,UK | BeIN Sports
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94445
 #EXTINF:-1,UK| BT SPORTS 3 HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54831
-
+#EXTINF:-1,UK| COMEDY CENTRAL
+http://uhd3.one:80/Spencer/1234567/228568
+#EXTINF:-1,UK| CRIME INVESTIGATION
+http://uhd3.one:80/Spencer/1234567/1014333
+#EXTINF:-1,UK| DAVE FHD
+http://uhd3.one:80/Spencer/1234567/30550
+#EXTINF:-1,UK | Drama HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54782
+#EXTINF:-1,UK| E4
+http://uhd3.one:80/Spencer/1234567/79732
+#EXTINF:-1,UK| FOX
+http://uhd3.one:80/Spencer/1234567/79734
+#EXTINF:-1,UK| MORE 4
+http://uhd3.one:80/Spencer/1234567/30527
+#EXTINF:-1,UK| MORE 4 HD
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/54777
+#EXTINF:-1,UK| NICKELODEON HD
+http://uhd3.one:80/Spencer/1234567/228579
+#EXTINF:-1,UK| NICK JR HD
+http://uhd3.one:80/Spencer/1234567/1014235
+#EXTINF:-1,UK| NICK JUNIOR
+http://uhd3.one:80/Spencer/1234567/45260
+ #EXTINF:-1,UK| SKY SHOWCASE
+http://uhd3.one:80/Spencer/1234567/741953
+#EXTINF:-1,UK| SKY SPORTS FOOTBALL
+http://uhd3.one:80/Spencer/1234567/79478
+#EXTINF:-1,UK| SKY SPORTS FOOTBALL HD
+http://uhd3.one:80/Spencer/1234567/83452
+#EXTINF:-1,UK| True Crime
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,UK| 
+#EXTINF:-1,UK| 
+#EXTINF:-1,UK| 
+#EXTINF:-1,UK| 
 
 
 
