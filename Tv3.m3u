@@ -13,6 +13,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_35
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1,USA | CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | Comedy Central
+https://e3.thetvapp.to/hls/ComedyCentralEast.m3u8?token=X8Uo_Xb-aqC4gtn1N-mSIQ&expires=1693047524
 #EXTINF:-1,USA | Forensic Files VOD
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
 #EXTINF:-1,USA | Freeform
