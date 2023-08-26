@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1,USA | ABC 7 New York
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1,USA | ABC 7 News
+https://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,USA | Buzzr
+https://buzzr-samsungus-tsv2-ssdop.amagi.tv/playlist/samsungus-buzzr-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_
+#EXTINF:-1,USA | Cartoon Network East
+https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | Cartoon Network West
+https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | CBS 2 News
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1,USA | CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | Forensic Files VOD
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
+#EXTINF:-1,USA | Freeform
+https://e1.thetvapp.to/hls/FreeformEast.m3u8?token=DHPUDJnuE_JEdQu-b5g6_g&expires=1693037298
+#EXTINF:-1,USA | Freeform
+https://e1.thetvapp.to/hls/FXEast.m3u8?token=2vI-vJ02XKRBePZBOC-VWQ&expires=1693037740
+#EXTINF:-1,USA | Game Show
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=
+#EXTINF:-1,USA | HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | ION
+https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
+#EXTINF:-1,USA | ION +
+https://linear-433.frequency.stream/dist/vix/433/hls/master/playlist.m3u8
+#EXTINF:-1,USA | ION Mistery
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+#EXTINF:-1,USA | ID
+https://e3.thetvapp.to/hls/InvestigationDiscoveryEast.m3u8?token=_zu6w0kBfd2XEmaLSiyybQ&expires=1693037552
+#EXTINF:-1,USA | NBC 4 New York
+http://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
+#EXTINF:-1,USA | News 12
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1,USA | Nick Jr.
+https://e3.thetvapp.to/hls/NickJrEast.m3u8?token=RuYwllFfWlObm4TfPVpr5A&expires=1693037614
+#EXTINF:-1,USA | PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
+#EXTINF:-1,USA | TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | The Weather Nation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:-1,USA | TruTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,USA | Weather Nation
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:-1,UK | CNN HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,UK | BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,UK | BeIN Sports Xtra
+https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,UK | True Crime
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
